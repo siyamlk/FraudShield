@@ -1,0 +1,7034 @@
+{
+  "Achille": {
+    "state": "OK",
+    "zip": 74720,
+    "lat": 33.8396,
+    "long": -96.3648,
+    "city_pop": 608,
+    "transaction_count": 431
+  },
+  "Acworth": {
+    "state": "NH",
+    "zip": 3601,
+    "lat": 43.196,
+    "long": -72.3001,
+    "city_pop": 477,
+    "transaction_count": 1689
+  },
+  "Adams": {
+    "state": "WI",
+    "zip": 53910,
+    "lat": 43.8967,
+    "long": -89.8219,
+    "city_pop": 3508,
+    "transaction_count": 409
+  },
+  "Afton": {
+    "state": "MI",
+    "zip": 49705,
+    "lat": 45.3637,
+    "long": -84.4695,
+    "city_pop": 937,
+    "transaction_count": 1669
+  },
+  "Akron": {
+    "state": "OH",
+    "zip": 44307,
+    "lat": 41.0695,
+    "long": -81.5488,
+    "city_pop": 272134,
+    "transaction_count": 405
+  },
+  "Albany": {
+    "state": "NY",
+    "zip": 12222,
+    "lat": 42.6853,
+    "long": -73.8253,
+    "city_pop": 151022,
+    "transaction_count": 847
+  },
+  "Albuquerque": {
+    "state": "NM",
+    "zip": 87116,
+    "lat": 35.0561,
+    "long": -106.5506,
+    "city_pop": 641349,
+    "transaction_count": 830
+  },
+  "Alder": {
+    "state": "MT",
+    "zip": 59710,
+    "lat": 45.1939,
+    "long": -112.0568,
+    "city_pop": 286,
+    "transaction_count": 828
+  },
+  "Aledo": {
+    "state": "TX",
+    "zip": 76008,
+    "lat": 32.7004,
+    "long": -97.6039,
+    "city_pop": 13602,
+    "transaction_count": 824
+  },
+  "Alexandria": {
+    "state": "VA",
+    "zip": 22311,
+    "lat": 38.832,
+    "long": -77.12,
+    "city_pop": 321490,
+    "transaction_count": 837
+  },
+  "Allenhurst": {
+    "state": "NJ",
+    "zip": 7711,
+    "lat": 40.2367,
+    "long": -74.0067,
+    "city_pop": 1533,
+    "transaction_count": 835
+  },
+  "Allentown": {
+    "state": "PA",
+    "zip": 18103,
+    "lat": 40.5891,
+    "long": -75.4645,
+    "city_pop": 166081,
+    "transaction_count": 2970
+  },
+  "Alpharetta": {
+    "state": "GA",
+    "zip": 30009,
+    "lat": 34.077,
+    "long": -84.3033,
+    "city_pop": 165556,
+    "transaction_count": 2074
+  },
+  "Altair": {
+    "state": "TX",
+    "zip": 77412,
+    "lat": 29.6047,
+    "long": -96.5249,
+    "city_pop": 106,
+    "transaction_count": 1644
+  },
+  "Alton": {
+    "state": "IA",
+    "zip": 51003,
+    "lat": 42.9782,
+    "long": -96.0173,
+    "city_pop": 1700,
+    "transaction_count": 780
+  },
+  "Altona": {
+    "state": "NY",
+    "zip": 12910,
+    "lat": 44.8816,
+    "long": -73.6408,
+    "city_pop": 2148,
+    "transaction_count": 1642
+  },
+  "Altonah": {
+    "state": "UT",
+    "zip": 84002,
+    "lat": 40.3207,
+    "long": -110.436,
+    "city_pop": 302,
+    "transaction_count": 1685
+  },
+  "Alva": {
+    "state": "WY",
+    "zip": 82711,
+    "lat": 44.6873,
+    "long": -104.4414,
+    "city_pop": 110,
+    "transaction_count": 859
+  },
+  "Amanda": {
+    "state": "OH",
+    "zip": 43102,
+    "lat": 39.6251,
+    "long": -82.7552,
+    "city_pop": 4512,
+    "transaction_count": 1250
+  },
+  "American Fork": {
+    "state": "UT",
+    "zip": 84003,
+    "lat": 40.3928,
+    "long": -111.7941,
+    "city_pop": 42384,
+    "transaction_count": 854
+  },
+  "Amorita": {
+    "state": "OK",
+    "zip": 73719,
+    "lat": 36.9412,
+    "long": -98.2458,
+    "city_pop": 83,
+    "transaction_count": 423
+  },
+  "Amsterdam": {
+    "state": "OH",
+    "zip": 43903,
+    "lat": 40.4731,
+    "long": -80.9596,
+    "city_pop": 2208,
+    "transaction_count": 856
+  },
+  "Andrews": {
+    "state": "IN",
+    "zip": 46702,
+    "lat": 40.8618,
+    "long": -85.6067,
+    "city_pop": 2304,
+    "transaction_count": 2952
+  },
+  "Annapolis": {
+    "state": "MD",
+    "zip": 21405,
+    "lat": 39.0305,
+    "long": -76.5515,
+    "city_pop": 92106,
+    "transaction_count": 429
+  },
+  "Apison": {
+    "state": "TN",
+    "zip": 37302,
+    "lat": 35.0149,
+    "long": -85.0164,
+    "city_pop": 3730,
+    "transaction_count": 429
+  },
+  "Arcadia": {
+    "state": "MI",
+    "zip": 49613,
+    "lat": 44.5232,
+    "long": -86.2061,
+    "city_pop": 680,
+    "transaction_count": 3338
+  },
+  "Arlington": {
+    "state": "VA",
+    "zip": 22213,
+    "lat": 38.8954,
+    "long": -77.1633,
+    "city_pop": 207410,
+    "transaction_count": 1250
+  },
+  "Armagh": {
+    "state": "PA",
+    "zip": 15920,
+    "lat": 40.4603,
+    "long": -79.0097,
+    "city_pop": 922,
+    "transaction_count": 2077
+  },
+  "Armonk": {
+    "state": "NY",
+    "zip": 10504,
+    "lat": 41.136,
+    "long": -73.7009,
+    "city_pop": 7987,
+    "transaction_count": 818
+  },
+  "Arnold": {
+    "state": "MO",
+    "zip": 63010,
+    "lat": 38.4305,
+    "long": -90.387,
+    "city_pop": 35439,
+    "transaction_count": 1611
+  },
+  "Arvada": {
+    "state": "CO",
+    "zip": 80005,
+    "lat": 39.8422,
+    "long": -105.1097,
+    "city_pop": 122111,
+    "transaction_count": 414
+  },
+  "Ash Flat": {
+    "state": "AR",
+    "zip": 72513,
+    "lat": 36.2201,
+    "long": -91.6421,
+    "city_pop": 2856,
+    "transaction_count": 1216
+  },
+  "Ashfield": {
+    "state": "MA",
+    "zip": 1330,
+    "lat": 42.5232,
+    "long": -72.811,
+    "city_pop": 1506,
+    "transaction_count": 845
+  },
+  "Ashford": {
+    "state": "WA",
+    "zip": 98304,
+    "lat": 46.7531,
+    "long": -121.9898,
+    "city_pop": 759,
+    "transaction_count": 838
+  },
+  "Ashland": {
+    "state": "KY",
+    "zip": 41101,
+    "lat": 38.4722,
+    "long": -82.6461,
+    "city_pop": 40470,
+    "transaction_count": 10
+  },
+  "Atglen": {
+    "state": "PA",
+    "zip": 19310,
+    "lat": 39.9458,
+    "long": -75.9703,
+    "city_pop": 3066,
+    "transaction_count": 808
+  },
+  "Athena": {
+    "state": "OR",
+    "zip": 97813,
+    "lat": 45.8289,
+    "long": -118.4971,
+    "city_pop": 1302,
+    "transaction_count": 1249
+  },
+  "Atlantic": {
+    "state": "VA",
+    "zip": 23303,
+    "lat": 37.9073,
+    "long": -75.5089,
+    "city_pop": 741,
+    "transaction_count": 1670
+  },
+  "Auburn": {
+    "state": "ME",
+    "zip": 4210,
+    "lat": 44.0948,
+    "long": -70.239,
+    "city_pop": 23045,
+    "transaction_count": 843
+  },
+  "Aurora": {
+    "state": "CO",
+    "zip": 80014,
+    "lat": 39.6662,
+    "long": -104.835,
+    "city_pop": 389246,
+    "transaction_count": 416
+  },
+  "Avera": {
+    "state": "GA",
+    "zip": 30803,
+    "lat": 33.141,
+    "long": -82.515,
+    "city_pop": 741,
+    "transaction_count": 822
+  },
+  "Avoca": {
+    "state": "IA",
+    "zip": 51521,
+    "lat": 41.4768,
+    "long": -95.3509,
+    "city_pop": 2036,
+    "transaction_count": 1624
+  },
+  "Azusa": {
+    "state": "CA",
+    "zip": 91702,
+    "lat": 34.1248,
+    "long": -117.9031,
+    "city_pop": 59705,
+    "transaction_count": 408
+  },
+  "Bagley": {
+    "state": "WI",
+    "zip": 53801,
+    "lat": 42.9207,
+    "long": -91.0685,
+    "city_pop": 878,
+    "transaction_count": 2100
+  },
+  "Bailey": {
+    "state": "NC",
+    "zip": 27807,
+    "lat": 35.8072,
+    "long": -78.0892,
+    "city_pop": 6629,
+    "transaction_count": 1230
+  },
+  "Ballwin": {
+    "state": "MO",
+    "zip": 63021,
+    "lat": 38.577,
+    "long": -90.5255,
+    "city_pop": 92608,
+    "transaction_count": 1225
+  },
+  "Barnard": {
+    "state": "SD",
+    "zip": 57426,
+    "lat": 45.7205,
+    "long": -98.5534,
+    "city_pop": 63,
+    "transaction_count": 806
+  },
+  "Barneveld": {
+    "state": "NY",
+    "zip": 13304,
+    "lat": 43.2237,
+    "long": -75.1612,
+    "city_pop": 1684,
+    "transaction_count": 1681
+  },
+  "Barnstable": {
+    "state": "MA",
+    "zip": 2630,
+    "lat": 41.6983,
+    "long": -70.3001,
+    "city_pop": 1850,
+    "transaction_count": 1674
+  },
+  "Baroda": {
+    "state": "MI",
+    "zip": 49101,
+    "lat": 41.9488,
+    "long": -86.4913,
+    "city_pop": 3104,
+    "transaction_count": 1235
+  },
+  "Basye": {
+    "state": "VA",
+    "zip": 22810,
+    "lat": 38.8089,
+    "long": -78.7776,
+    "city_pop": 863,
+    "transaction_count": 1710
+  },
+  "Baton Rouge": {
+    "state": "LA",
+    "zip": 70808,
+    "lat": 30.4066,
+    "long": -91.1468,
+    "city_pop": 378909,
+    "transaction_count": 2481
+  },
+  "Battle Creek": {
+    "state": "IA",
+    "zip": 51006,
+    "lat": 42.3327,
+    "long": -95.6045,
+    "city_pop": 1075,
+    "transaction_count": 1532
+  },
+  "Bauxite": {
+    "state": "AR",
+    "zip": 72011,
+    "lat": 34.5091,
+    "long": -92.4828,
+    "city_pop": 4074,
+    "transaction_count": 2438
+  },
+  "Bay City": {
+    "state": "MI",
+    "zip": 48706,
+    "lat": 43.6088,
+    "long": -83.953,
+    "city_pop": 67858,
+    "transaction_count": 808
+  },
+  "Bay Minette": {
+    "state": "AL",
+    "zip": 36507,
+    "lat": 30.8635,
+    "long": -87.7644,
+    "city_pop": 19090,
+    "transaction_count": 1267
+  },
+  "Beacon": {
+    "state": "NY",
+    "zip": 12508,
+    "lat": 41.5097,
+    "long": -73.9634,
+    "city_pop": 19880,
+    "transaction_count": 11
+  },
+  "Beasley": {
+    "state": "TX",
+    "zip": 77417,
+    "lat": 29.479,
+    "long": -95.9681,
+    "city_pop": 2457,
+    "transaction_count": 867
+  },
+  "Beaver Falls": {
+    "state": "PA",
+    "zip": 15010,
+    "lat": 40.7687,
+    "long": -80.3592,
+    "city_pop": 28425,
+    "transaction_count": 1284
+  },
+  "Beaverdam": {
+    "state": "OH",
+    "zip": 45808,
+    "lat": 40.8314,
+    "long": -83.9758,
+    "city_pop": 349,
+    "transaction_count": 834
+  },
+  "Belfast": {
+    "state": "NY",
+    "zip": 14711,
+    "lat": 42.32,
+    "long": -78.0943,
+    "city_pop": 1766,
+    "transaction_count": 1202
+  },
+  "Belgrade": {
+    "state": "MT",
+    "zip": 59714,
+    "lat": 45.7801,
+    "long": -111.1439,
+    "city_pop": 18182,
+    "transaction_count": 1640
+  },
+  "Belle Fourche": {
+    "state": "SD",
+    "zip": 57717,
+    "lat": 44.6723,
+    "long": -103.8396,
+    "city_pop": 8007,
+    "transaction_count": 837
+  },
+  "Bellmore": {
+    "state": "NY",
+    "zip": 11710,
+    "lat": 40.6729,
+    "long": -73.5365,
+    "city_pop": 34496,
+    "transaction_count": 2038
+  },
+  "Belmond": {
+    "state": "IA",
+    "zip": 50421,
+    "lat": 42.8511,
+    "long": -93.62,
+    "city_pop": 3032,
+    "transaction_count": 1242
+  },
+  "Belmont": {
+    "state": "NH",
+    "zip": 3220,
+    "lat": 43.4512,
+    "long": -71.489,
+    "city_pop": 7430,
+    "transaction_count": 804
+  },
+  "Benton": {
+    "state": "WI",
+    "zip": 53803,
+    "lat": 42.5545,
+    "long": -90.3508,
+    "city_pop": 1306,
+    "transaction_count": 425
+  },
+  "Bessemer": {
+    "state": "AL",
+    "zip": 35022,
+    "lat": 33.3224,
+    "long": -86.9657,
+    "city_pop": 71463,
+    "transaction_count": 2066
+  },
+  "Bethel": {
+    "state": "OH",
+    "zip": 45106,
+    "lat": 38.9424,
+    "long": -84.092,
+    "city_pop": 12349,
+    "transaction_count": 399
+  },
+  "Bethel Springs": {
+    "state": "TN",
+    "zip": 38315,
+    "lat": 35.2289,
+    "long": -88.644,
+    "city_pop": 3876,
+    "transaction_count": 835
+  },
+  "Big Creek": {
+    "state": "KY",
+    "zip": 40914,
+    "lat": 37.1046,
+    "long": -83.5706,
+    "city_pop": 467,
+    "transaction_count": 1222
+  },
+  "Big Indian": {
+    "state": "NY",
+    "zip": 12410,
+    "lat": 42.074,
+    "long": -74.453,
+    "city_pop": 397,
+    "transaction_count": 1255
+  },
+  "Bigelow": {
+    "state": "MN",
+    "zip": 56117,
+    "lat": 43.5336,
+    "long": -95.6515,
+    "city_pop": 399,
+    "transaction_count": 423
+  },
+  "Birmingham": {
+    "state": "IA",
+    "zip": 52535,
+    "lat": 40.8626,
+    "long": -91.9534,
+    "city_pop": 888,
+    "transaction_count": 4499
+  },
+  "Blackville": {
+    "state": "SC",
+    "zip": 29817,
+    "lat": 33.3645,
+    "long": -81.2718,
+    "city_pop": 4913,
+    "transaction_count": 1277
+  },
+  "Blairsden-Graeagle": {
+    "state": "CA",
+    "zip": 96103,
+    "lat": 39.8127,
+    "long": -120.6405,
+    "city_pop": 1725,
+    "transaction_count": 844
+  },
+  "Blairstown": {
+    "state": "MO",
+    "zip": 64726,
+    "lat": 38.5319,
+    "long": -93.9221,
+    "city_pop": 467,
+    "transaction_count": 1245
+  },
+  "Blooming Grove": {
+    "state": "TX",
+    "zip": 76626,
+    "lat": 32.0758,
+    "long": -96.701,
+    "city_pop": 1563,
+    "transaction_count": 2057
+  },
+  "Bolivar": {
+    "state": "PA",
+    "zip": 15923,
+    "lat": 40.3673,
+    "long": -79.1605,
+    "city_pop": 1770,
+    "transaction_count": 833
+  },
+  "Bolton": {
+    "state": "NC",
+    "zip": 28423,
+    "lat": 34.3091,
+    "long": -78.3372,
+    "city_pop": 2290,
+    "transaction_count": 1676
+  },
+  "Bonfield": {
+    "state": "IL",
+    "zip": 60913,
+    "lat": 41.1573,
+    "long": -88.0619,
+    "city_pop": 1617,
+    "transaction_count": 1238
+  },
+  "Bonita Springs": {
+    "state": "FL",
+    "zip": 34135,
+    "lat": 26.3771,
+    "long": -81.7334,
+    "city_pop": 51427,
+    "transaction_count": 426
+  },
+  "Boonton": {
+    "state": "NJ",
+    "zip": 7005,
+    "lat": 40.9115,
+    "long": -74.414,
+    "city_pop": 15269,
+    "transaction_count": 865
+  },
+  "Boulder": {
+    "state": "MT",
+    "zip": 59632,
+    "lat": 46.2306,
+    "long": -112.1138,
+    "city_pop": 1939,
+    "transaction_count": 395
+  },
+  "Bowdoin": {
+    "state": "ME",
+    "zip": 4287,
+    "lat": 44.0575,
+    "long": -69.9656,
+    "city_pop": 3224,
+    "transaction_count": 2559
+  },
+  "Bowersville": {
+    "state": "OH",
+    "zip": 45307,
+    "lat": 39.5756,
+    "long": -83.7153,
+    "city_pop": 338,
+    "transaction_count": 1240
+  },
+  "Boyd": {
+    "state": "WI",
+    "zip": 54726,
+    "lat": 44.9437,
+    "long": -91.0294,
+    "city_pop": 1690,
+    "transaction_count": 421
+  },
+  "Bradley": {
+    "state": "SC",
+    "zip": 29819,
+    "lat": 34.0326,
+    "long": -82.2027,
+    "city_pop": 1523,
+    "transaction_count": 2566
+  },
+  "Brainard": {
+    "state": "NE",
+    "zip": 68626,
+    "lat": 41.1832,
+    "long": -96.9882,
+    "city_pop": 614,
+    "transaction_count": 421
+  },
+  "Brandon": {
+    "state": "VT",
+    "zip": 5733,
+    "lat": 43.8065,
+    "long": -73.0882,
+    "city_pop": 5895,
+    "transaction_count": 3287
+  },
+  "Brantley": {
+    "state": "AL",
+    "zip": 36009,
+    "lat": 31.571,
+    "long": -86.2743,
+    "city_pop": 2566,
+    "transaction_count": 834
+  },
+  "Brashear": {
+    "state": "MO",
+    "zip": 63533,
+    "lat": 40.1959,
+    "long": -92.4333,
+    "city_pop": 805,
+    "transaction_count": 418
+  },
+  "Breesport": {
+    "state": "NY",
+    "zip": 14816,
+    "lat": 42.1939,
+    "long": -76.7361,
+    "city_pop": 520,
+    "transaction_count": 1675
+  },
+  "Bridgeport": {
+    "state": "NJ",
+    "zip": 8014,
+    "lat": 39.8016,
+    "long": -75.3478,
+    "city_pop": 504,
+    "transaction_count": 1190
+  },
+  "Bridger": {
+    "state": "MT",
+    "zip": 59014,
+    "lat": 45.2857,
+    "long": -108.9082,
+    "city_pop": 1446,
+    "transaction_count": 1667
+  },
+  "Brinson": {
+    "state": "GA",
+    "zip": 39825,
+    "lat": 30.9788,
+    "long": -84.7373,
+    "city_pop": 1461,
+    "transaction_count": 850
+  },
+  "Bristol": {
+    "state": "PA",
+    "zip": 19007,
+    "lat": 40.1159,
+    "long": -74.8536,
+    "city_pop": 21125,
+    "transaction_count": 1224
+  },
+  "Bristow": {
+    "state": "IN",
+    "zip": 47515,
+    "lat": 38.1981,
+    "long": -86.6821,
+    "city_pop": 965,
+    "transaction_count": 830
+  },
+  "Bronx": {
+    "state": "NY",
+    "zip": 10463,
+    "lat": 40.8798,
+    "long": -73.9067,
+    "city_pop": 1382480,
+    "transaction_count": 1641
+  },
+  "Brooklin": {
+    "state": "ME",
+    "zip": 4616,
+    "lat": 44.2541,
+    "long": -68.5565,
+    "city_pop": 824,
+    "transaction_count": 820
+  },
+  "Brooklyn": {
+    "state": "NY",
+    "zip": 11217,
+    "lat": 40.6816,
+    "long": -73.9798,
+    "city_pop": 2504700,
+    "transaction_count": 1640
+  },
+  "Broomfield": {
+    "state": "CO",
+    "zip": 80021,
+    "lat": 39.8854,
+    "long": -105.1139,
+    "city_pop": 92337,
+    "transaction_count": 407
+  },
+  "Browning": {
+    "state": "MO",
+    "zip": 64630,
+    "lat": 40.029,
+    "long": -93.1607,
+    "city_pop": 602,
+    "transaction_count": 1267
+  },
+  "Brownville": {
+    "state": "NY",
+    "zip": 13615,
+    "lat": 44.0577,
+    "long": -76.0196,
+    "city_pop": 1271,
+    "transaction_count": 1658
+  },
+  "Brunson": {
+    "state": "SC",
+    "zip": 29911,
+    "lat": 32.9413,
+    "long": -81.1807,
+    "city_pop": 1725,
+    "transaction_count": 2013
+  },
+  "Bryant": {
+    "state": "WI",
+    "zip": 54418,
+    "lat": 45.203,
+    "long": -88.9983,
+    "city_pop": 1080,
+    "transaction_count": 407
+  },
+  "Burbank": {
+    "state": "OK",
+    "zip": 74633,
+    "lat": 36.6966,
+    "long": -96.7869,
+    "city_pop": 471,
+    "transaction_count": 3379
+  },
+  "Burke": {
+    "state": "VA",
+    "zip": 22015,
+    "lat": 38.7894,
+    "long": -77.2818,
+    "city_pop": 43102,
+    "transaction_count": 1199
+  },
+  "Burlington": {
+    "state": "WA",
+    "zip": 98233,
+    "lat": 48.4786,
+    "long": -122.3345,
+    "city_pop": 14871,
+    "transaction_count": 1616
+  },
+  "Burns Flat": {
+    "state": "OK",
+    "zip": 73624,
+    "lat": 35.3492,
+    "long": -99.188,
+    "city_pop": 2142,
+    "transaction_count": 432
+  },
+  "Burrton": {
+    "state": "KS",
+    "zip": 67020,
+    "lat": 38.0261,
+    "long": -97.6666,
+    "city_pop": 1689,
+    "transaction_count": 738
+  },
+  "Byesville": {
+    "state": "OH",
+    "zip": 43723,
+    "lat": 39.9623,
+    "long": -81.5485,
+    "city_pop": 4984,
+    "transaction_count": 12
+  },
+  "Bynum": {
+    "state": "TX",
+    "zip": 76631,
+    "lat": 31.9907,
+    "long": -96.9837,
+    "city_pop": 522,
+    "transaction_count": 411
+  },
+  "Cadiz": {
+    "state": "KY",
+    "zip": 42211,
+    "lat": 36.802,
+    "long": -87.8286,
+    "city_pop": 13422,
+    "transaction_count": 1231
+  },
+  "Camden": {
+    "state": "NY",
+    "zip": 13316,
+    "lat": 43.3392,
+    "long": -75.7543,
+    "city_pop": 6460,
+    "transaction_count": 2039
+  },
+  "Campbell": {
+    "state": "NE",
+    "zip": 68932,
+    "lat": 40.2967,
+    "long": -98.737,
+    "city_pop": 493,
+    "transaction_count": 1191
+  },
+  "Canton": {
+    "state": "OH",
+    "zip": 44702,
+    "lat": 40.8027,
+    "long": -81.3739,
+    "city_pop": 192805,
+    "transaction_count": 818
+  },
+  "Cape Coral": {
+    "state": "FL",
+    "zip": 33909,
+    "lat": 26.6939,
+    "long": -81.9452,
+    "city_pop": 156391,
+    "transaction_count": 841
+  },
+  "Cardwell": {
+    "state": "MO",
+    "zip": 63829,
+    "lat": 36.0434,
+    "long": -90.2907,
+    "city_pop": 1120,
+    "transaction_count": 420
+  },
+  "Carlisle": {
+    "state": "IN",
+    "zip": 47838,
+    "lat": 38.9763,
+    "long": -87.3667,
+    "city_pop": 4081,
+    "transaction_count": 836
+  },
+  "Carlotta": {
+    "state": "CA",
+    "zip": 95528,
+    "lat": 40.507,
+    "long": -123.9743,
+    "city_pop": 1139,
+    "transaction_count": 1644
+  },
+  "Carroll": {
+    "state": "NE",
+    "zip": 68723,
+    "lat": 42.277,
+    "long": -97.1926,
+    "city_pop": 566,
+    "transaction_count": 859
+  },
+  "Cascade Locks": {
+    "state": "OR",
+    "zip": 97014,
+    "lat": 45.671,
+    "long": -121.8686,
+    "city_pop": 1288,
+    "transaction_count": 1654
+  },
+  "Cass": {
+    "state": "WV",
+    "zip": 24927,
+    "lat": 38.388,
+    "long": -79.9906,
+    "city_pop": 365,
+    "transaction_count": 1277
+  },
+  "Cassatt": {
+    "state": "SC",
+    "zip": 29032,
+    "lat": 34.3424,
+    "long": -80.5,
+    "city_pop": 4424,
+    "transaction_count": 423
+  },
+  "Catawba": {
+    "state": "VA",
+    "zip": 24070,
+    "lat": 37.3696,
+    "long": -80.1284,
+    "city_pop": 1363,
+    "transaction_count": 1677
+  },
+  "Cazenovia": {
+    "state": "WI",
+    "zip": 53924,
+    "lat": 43.4987,
+    "long": -90.2796,
+    "city_pop": 1360,
+    "transaction_count": 1267
+  },
+  "Cecilton": {
+    "state": "MD",
+    "zip": 21913,
+    "lat": 39.4015,
+    "long": -75.8654,
+    "city_pop": 663,
+    "transaction_count": 1204
+  },
+  "Cedar": {
+    "state": "MI",
+    "zip": 49621,
+    "lat": 44.8605,
+    "long": -85.8138,
+    "city_pop": 3096,
+    "transaction_count": 1241
+  },
+  "Center Point": {
+    "state": "WV",
+    "zip": 26339,
+    "lat": 39.4125,
+    "long": -80.6352,
+    "city_pop": 255,
+    "transaction_count": 1218
+  },
+  "Center Tuftonboro": {
+    "state": "NH",
+    "zip": 3816,
+    "lat": 43.6849,
+    "long": -71.2551,
+    "city_pop": 1368,
+    "transaction_count": 833
+  },
+  "Centerview": {
+    "state": "MO",
+    "zip": 64019,
+    "lat": 38.7897,
+    "long": -93.8702,
+    "city_pop": 2368,
+    "transaction_count": 2486
+  },
+  "Central": {
+    "state": "IN",
+    "zip": 47110,
+    "lat": 38.097,
+    "long": -86.1723,
+    "city_pop": 350,
+    "transaction_count": 824
+  },
+  "Chatham": {
+    "state": "NY",
+    "zip": 12037,
+    "lat": 42.3496,
+    "long": -73.5873,
+    "city_pop": 4015,
+    "transaction_count": 406
+  },
+  "Chattanooga": {
+    "state": "TN",
+    "zip": 37411,
+    "lat": 35.0271,
+    "long": -85.2356,
+    "city_pop": 198659,
+    "transaction_count": 7
+  },
+  "Cherokee Village": {
+    "state": "AR",
+    "zip": 72529,
+    "lat": 36.3011,
+    "long": -91.5281,
+    "city_pop": 4726,
+    "transaction_count": 1258
+  },
+  "Chester": {
+    "state": "MD",
+    "zip": 21619,
+    "lat": 38.9583,
+    "long": -76.2842,
+    "city_pop": 5848,
+    "transaction_count": 849
+  },
+  "Chester Heights": {
+    "state": "PA",
+    "zip": 19017,
+    "lat": 39.8839,
+    "long": -75.4669,
+    "city_pop": 348,
+    "transaction_count": 1228
+  },
+  "Christine": {
+    "state": "ND",
+    "zip": 58015,
+    "lat": 46.5522,
+    "long": -96.7909,
+    "city_pop": 291,
+    "transaction_count": 876
+  },
+  "Churubusco": {
+    "state": "IN",
+    "zip": 46723,
+    "lat": 41.229,
+    "long": -85.3244,
+    "city_pop": 7692,
+    "transaction_count": 796
+  },
+  "Cisco": {
+    "state": "IL",
+    "zip": 61830,
+    "lat": 39.9972,
+    "long": -88.6962,
+    "city_pop": 478,
+    "transaction_count": 1697
+  },
+  "Claremont": {
+    "state": "CA",
+    "zip": 91711,
+    "lat": 34.1092,
+    "long": -117.7183,
+    "city_pop": 35705,
+    "transaction_count": 419
+  },
+  "Clarinda": {
+    "state": "IA",
+    "zip": 51632,
+    "lat": 40.7491,
+    "long": -95.038,
+    "city_pop": 7297,
+    "transaction_count": 1689
+  },
+  "Clarion": {
+    "state": "PA",
+    "zip": 16214,
+    "lat": 41.2123,
+    "long": -79.3773,
+    "city_pop": 10127,
+    "transaction_count": 9
+  },
+  "Clarks Mills": {
+    "state": "PA",
+    "zip": 16114,
+    "lat": 41.3851,
+    "long": -80.1752,
+    "city_pop": 606,
+    "transaction_count": 2303
+  },
+  "Clarksville": {
+    "state": "TN",
+    "zip": 37040,
+    "lat": 36.522,
+    "long": -87.349,
+    "city_pop": 151785,
+    "transaction_count": 1236
+  },
+  "Clay Center": {
+    "state": "OH",
+    "zip": 43408,
+    "lat": 41.5686,
+    "long": -83.3632,
+    "city_pop": 269,
+    "transaction_count": 1233
+  },
+  "Claypool": {
+    "state": "IN",
+    "zip": 46510,
+    "lat": 41.1165,
+    "long": -85.8686,
+    "city_pop": 3631,
+    "transaction_count": 7
+  },
+  "Clayton": {
+    "state": "OK",
+    "zip": 74536,
+    "lat": 34.5906,
+    "long": -95.38,
+    "city_pop": 1760,
+    "transaction_count": 1645
+  },
+  "Clearwater": {
+    "state": "FL",
+    "zip": 33760,
+    "lat": 27.9004,
+    "long": -82.7152,
+    "city_pop": 172247,
+    "transaction_count": 435
+  },
+  "Cleveland": {
+    "state": "AL",
+    "zip": 35049,
+    "lat": 33.9778,
+    "long": -86.5598,
+    "city_pop": 3996,
+    "transaction_count": 3717
+  },
+  "Clifton": {
+    "state": "SC",
+    "zip": 29324,
+    "lat": 34.9906,
+    "long": -81.8327,
+    "city_pop": 167,
+    "transaction_count": 839
+  },
+  "Clinton": {
+    "state": "IN",
+    "zip": 47842,
+    "lat": 39.6591,
+    "long": -87.4208,
+    "city_pop": 10085,
+    "transaction_count": 12
+  },
+  "Clune": {
+    "state": "PA",
+    "zip": 15727,
+    "lat": 40.5503,
+    "long": -79.3237,
+    "city_pop": 168,
+    "transaction_count": 831
+  },
+  "Clutier": {
+    "state": "IA",
+    "zip": 52217,
+    "lat": 42.0789,
+    "long": -92.3763,
+    "city_pop": 590,
+    "transaction_count": 422
+  },
+  "Cochranton": {
+    "state": "PA",
+    "zip": 16314,
+    "lat": 41.5205,
+    "long": -80.0573,
+    "city_pop": 5507,
+    "transaction_count": 2082
+  },
+  "Coffeeville": {
+    "state": "MS",
+    "zip": 38922,
+    "lat": 33.9215,
+    "long": -89.6782,
+    "city_pop": 3451,
+    "transaction_count": 1682
+  },
+  "Cokeburg": {
+    "state": "PA",
+    "zip": 15324,
+    "lat": 40.1008,
+    "long": -80.0652,
+    "city_pop": 632,
+    "transaction_count": 1673
+  },
+  "Coleharbor": {
+    "state": "ND",
+    "zip": 58531,
+    "lat": 47.5196,
+    "long": -101.2332,
+    "city_pop": 307,
+    "transaction_count": 1628
+  },
+  "Coleman": {
+    "state": "TX",
+    "zip": 76834,
+    "lat": 31.8287,
+    "long": -99.427,
+    "city_pop": 5908,
+    "transaction_count": 1253
+  },
+  "Collegeville": {
+    "state": "MN",
+    "zip": 56321,
+    "lat": 45.5783,
+    "long": -94.4199,
+    "city_pop": 1536,
+    "transaction_count": 402
+  },
+  "Collettsville": {
+    "state": "NC",
+    "zip": 28611,
+    "lat": 35.9946,
+    "long": -81.7266,
+    "city_pop": 885,
+    "transaction_count": 1224
+  },
+  "Colorado Springs": {
+    "state": "CO",
+    "zip": 80951,
+    "lat": 38.8881,
+    "long": -104.6556,
+    "city_pop": 525713,
+    "transaction_count": 1266
+  },
+  "Colton": {
+    "state": "WA",
+    "zip": 99113,
+    "lat": 46.5901,
+    "long": -117.1692,
+    "city_pop": 761,
+    "transaction_count": 856
+  },
+  "Columbia": {
+    "state": "SC",
+    "zip": 29209,
+    "lat": 33.9659,
+    "long": -80.9355,
+    "city_pop": 333497,
+    "transaction_count": 1255
+  },
+  "Comfort": {
+    "state": "WV",
+    "zip": 25049,
+    "lat": 38.1372,
+    "long": -81.5962,
+    "city_pop": 630,
+    "transaction_count": 1244
+  },
+  "Comfrey": {
+    "state": "MN",
+    "zip": 56019,
+    "lat": 44.1111,
+    "long": -94.9134,
+    "city_pop": 914,
+    "transaction_count": 1683
+  },
+  "Conway": {
+    "state": "WA",
+    "zip": 98238,
+    "lat": 48.34,
+    "long": -122.3456,
+    "city_pop": 85,
+    "transaction_count": 3726
+  },
+  "Cord": {
+    "state": "AR",
+    "zip": 72524,
+    "lat": 35.8184,
+    "long": -91.3375,
+    "city_pop": 376,
+    "transaction_count": 1622
+  },
+  "Corona": {
+    "state": "CA",
+    "zip": 92882,
+    "lat": 33.8419,
+    "long": -117.6043,
+    "city_pop": 233717,
+    "transaction_count": 828
+  },
+  "Corriganville": {
+    "state": "MD",
+    "zip": 21524,
+    "lat": 39.6967,
+    "long": -78.8031,
+    "city_pop": 626,
+    "transaction_count": 1693
+  },
+  "Corsica": {
+    "state": "PA",
+    "zip": 15829,
+    "lat": 41.1762,
+    "long": -79.1976,
+    "city_pop": 1274,
+    "transaction_count": 1223
+  },
+  "Cottekill": {
+    "state": "NY",
+    "zip": 12419,
+    "lat": 41.8467,
+    "long": -74.1038,
+    "city_pop": 722,
+    "transaction_count": 2518
+  },
+  "Coulee Dam": {
+    "state": "WA",
+    "zip": 99116,
+    "lat": 48.0379,
+    "long": -118.9419,
+    "city_pop": 1439,
+    "transaction_count": 15
+  },
+  "Cowlesville": {
+    "state": "NY",
+    "zip": 14037,
+    "lat": 42.8112,
+    "long": -78.4481,
+    "city_pop": 1166,
+    "transaction_count": 1225
+  },
+  "Coyle": {
+    "state": "OK",
+    "zip": 73027,
+    "lat": 35.8985,
+    "long": -97.2607,
+    "city_pop": 1493,
+    "transaction_count": 1218
+  },
+  "Cranks": {
+    "state": "KY",
+    "zip": 40820,
+    "lat": 36.7558,
+    "long": -83.1838,
+    "city_pop": 581,
+    "transaction_count": 1240
+  },
+  "Creedmoor": {
+    "state": "NC",
+    "zip": 27522,
+    "lat": 36.1124,
+    "long": -78.6476,
+    "city_pop": 12335,
+    "transaction_count": 1712
+  },
+  "Creola": {
+    "state": "OH",
+    "zip": 45622,
+    "lat": 39.3543,
+    "long": -82.503,
+    "city_pop": 321,
+    "transaction_count": 1217
+  },
+  "Cressona": {
+    "state": "PA",
+    "zip": 17929,
+    "lat": 40.6284,
+    "long": -76.195,
+    "city_pop": 1606,
+    "transaction_count": 829
+  },
+  "Cromona": {
+    "state": "KY",
+    "zip": 41810,
+    "lat": 37.1788,
+    "long": -82.695,
+    "city_pop": 502,
+    "transaction_count": 1666
+  },
+  "Cross": {
+    "state": "SC",
+    "zip": 29436,
+    "lat": 33.3364,
+    "long": -80.1859,
+    "city_pop": 4471,
+    "transaction_count": 402
+  },
+  "Cross Plains": {
+    "state": "TX",
+    "zip": 76443,
+    "lat": 32.1482,
+    "long": -99.1872,
+    "city_pop": 1897,
+    "transaction_count": 827
+  },
+  "Crouse": {
+    "state": "NC",
+    "zip": 28033,
+    "lat": 35.4359,
+    "long": -81.3385,
+    "city_pop": 2749,
+    "transaction_count": 8
+  },
+  "Crownpoint": {
+    "state": "NM",
+    "zip": 87313,
+    "lat": 35.7206,
+    "long": -108.0271,
+    "city_pop": 5662,
+    "transaction_count": 823
+  },
+  "Curlew": {
+    "state": "IA",
+    "zip": 50527,
+    "lat": 42.9633,
+    "long": -94.7975,
+    "city_pop": 223,
+    "transaction_count": 436
+  },
+  "Cuthbert": {
+    "state": "GA",
+    "zip": 39840,
+    "lat": 31.7706,
+    "long": -84.7936,
+    "city_pop": 5726,
+    "transaction_count": 824
+  },
+  "Cuyahoga Falls": {
+    "state": "OH",
+    "zip": 44223,
+    "lat": 41.1464,
+    "long": -81.5107,
+    "city_pop": 47772,
+    "transaction_count": 1237
+  },
+  "Dadeville": {
+    "state": "AL",
+    "zip": 36853,
+    "lat": 32.8224,
+    "long": -85.7704,
+    "city_pop": 8269,
+    "transaction_count": 429
+  },
+  "Dallas": {
+    "state": "TX",
+    "zip": 75210,
+    "lat": 32.7699,
+    "long": -96.743,
+    "city_pop": 1263321,
+    "transaction_count": 2951
+  },
+  "Dalton": {
+    "state": "WI",
+    "zip": 53926,
+    "lat": 43.6718,
+    "long": -89.1918,
+    "city_pop": 1628,
+    "transaction_count": 419
+  },
+  "Daly City": {
+    "state": "CA",
+    "zip": 94015,
+    "lat": 37.6787,
+    "long": -122.478,
+    "city_pop": 107941,
+    "transaction_count": 1258
+  },
+  "Damascus": {
+    "state": "VA",
+    "zip": 24236,
+    "lat": 36.6403,
+    "long": -81.7776,
+    "city_pop": 3085,
+    "transaction_count": 407
+  },
+  "Daniels": {
+    "state": "WV",
+    "zip": 25832,
+    "lat": 37.7256,
+    "long": -81.1087,
+    "city_pop": 3994,
+    "transaction_count": 412
+  },
+  "Darien": {
+    "state": "GA",
+    "zip": 31305,
+    "lat": 31.3826,
+    "long": -81.4312,
+    "city_pop": 5989,
+    "transaction_count": 1218
+  },
+  "Dayton": {
+    "state": "OH",
+    "zip": 45415,
+    "lat": 39.8355,
+    "long": -84.2613,
+    "city_pop": 479994,
+    "transaction_count": 413
+  },
+  "De Lancey": {
+    "state": "NY",
+    "zip": 13752,
+    "lat": 42.189,
+    "long": -74.9229,
+    "city_pop": 782,
+    "transaction_count": 361
+  },
+  "De Queen": {
+    "state": "AR",
+    "zip": 71832,
+    "lat": 34.0442,
+    "long": -94.3386,
+    "city_pop": 11253,
+    "transaction_count": 416
+  },
+  "De Soto": {
+    "state": "KS",
+    "zip": 66018,
+    "lat": 38.9462,
+    "long": -94.9714,
+    "city_pop": 5760,
+    "transaction_count": 2505
+  },
+  "De Witt": {
+    "state": "AR",
+    "zip": 72042,
+    "lat": 34.2853,
+    "long": -91.3336,
+    "city_pop": 5161,
+    "transaction_count": 2529
+  },
+  "Deadwood": {
+    "state": "SD",
+    "zip": 57732,
+    "lat": 44.3566,
+    "long": -103.6999,
+    "city_pop": 1979,
+    "transaction_count": 1265
+  },
+  "Deane": {
+    "state": "KY",
+    "zip": 41812,
+    "lat": 37.2409,
+    "long": -82.7696,
+    "city_pop": 230,
+    "transaction_count": 1161
+  },
+  "Delhi": {
+    "state": "LA",
+    "zip": 71232,
+    "lat": 32.3929,
+    "long": -91.4714,
+    "city_pop": 6581,
+    "transaction_count": 1258
+  },
+  "Dell City": {
+    "state": "TX",
+    "zip": 79837,
+    "lat": 31.924,
+    "long": -105.2099,
+    "city_pop": 579,
+    "transaction_count": 383
+  },
+  "Deltona": {
+    "state": "FL",
+    "zip": 32725,
+    "lat": 28.8989,
+    "long": -81.2473,
+    "city_pop": 88735,
+    "transaction_count": 836
+  },
+  "Denham Springs": {
+    "state": "LA",
+    "zip": 70726,
+    "lat": 30.459,
+    "long": -90.9027,
+    "city_pop": 71335,
+    "transaction_count": 2042
+  },
+  "Des Moines": {
+    "state": "IA",
+    "zip": 50312,
+    "lat": 41.5855,
+    "long": -93.6719,
+    "city_pop": 222785,
+    "transaction_count": 1242
+  },
+  "Desdemona": {
+    "state": "TX",
+    "zip": 76445,
+    "lat": 32.2819,
+    "long": -98.5673,
+    "city_pop": 407,
+    "transaction_count": 415
+  },
+  "Detroit": {
+    "state": "MI",
+    "zip": 48221,
+    "lat": 42.426,
+    "long": -83.15,
+    "city_pop": 673342,
+    "transaction_count": 2930
+  },
+  "Dexter": {
+    "state": "KS",
+    "zip": 67038,
+    "lat": 37.1641,
+    "long": -96.6917,
+    "city_pop": 602,
+    "transaction_count": 417
+  },
+  "Diamond": {
+    "state": "OH",
+    "zip": 44412,
+    "lat": 41.0935,
+    "long": -81.0425,
+    "city_pop": 2644,
+    "transaction_count": 2065
+  },
+  "Dieterich": {
+    "state": "IL",
+    "zip": 62424,
+    "lat": 39.0319,
+    "long": -88.4074,
+    "city_pop": 2092,
+    "transaction_count": 1276
+  },
+  "Doe Hill": {
+    "state": "VA",
+    "zip": 24433,
+    "lat": 38.4207,
+    "long": -79.4629,
+    "city_pop": 99,
+    "transaction_count": 1647
+  },
+  "Dongola": {
+    "state": "IL",
+    "zip": 62926,
+    "lat": 37.3712,
+    "long": -89.1349,
+    "city_pop": 2263,
+    "transaction_count": 834
+  },
+  "Downey": {
+    "state": "CA",
+    "zip": 90240,
+    "lat": 33.9581,
+    "long": -118.1174,
+    "city_pop": 111772,
+    "transaction_count": 10
+  },
+  "Downsville": {
+    "state": "NY",
+    "zip": 13755,
+    "lat": 42.0716,
+    "long": -75.0152,
+    "city_pop": 1228,
+    "transaction_count": 861
+  },
+  "Drakes Branch": {
+    "state": "VA",
+    "zip": 23937,
+    "lat": 36.9688,
+    "long": -78.5615,
+    "city_pop": 1970,
+    "transaction_count": 2049
+  },
+  "Dresden": {
+    "state": "KS",
+    "zip": 67635,
+    "lat": 39.6094,
+    "long": -100.4112,
+    "city_pop": 169,
+    "transaction_count": 414
+  },
+  "Du Pont": {
+    "state": "GA",
+    "zip": 31630,
+    "lat": 31.0,
+    "long": -82.8555,
+    "city_pop": 419,
+    "transaction_count": 434
+  },
+  "Dublin": {
+    "state": "PA",
+    "zip": 18917,
+    "lat": 40.375,
+    "long": -75.2045,
+    "city_pop": 2158,
+    "transaction_count": 457
+  },
+  "Dubre": {
+    "state": "KY",
+    "zip": 42731,
+    "lat": 36.8421,
+    "long": -85.5396,
+    "city_pop": 341,
+    "transaction_count": 877
+  },
+  "Dumont": {
+    "state": "CO",
+    "zip": 80436,
+    "lat": 39.7532,
+    "long": -105.6356,
+    "city_pop": 565,
+    "transaction_count": 1193
+  },
+  "Duncan": {
+    "state": "MS",
+    "zip": 38740,
+    "lat": 34.047,
+    "long": -90.7652,
+    "city_pop": 466,
+    "transaction_count": 842
+  },
+  "Dunlevy": {
+    "state": "PA",
+    "zip": 15432,
+    "lat": 40.1151,
+    "long": -79.8627,
+    "city_pop": 427,
+    "transaction_count": 1647
+  },
+  "Eagarville": {
+    "state": "IL",
+    "zip": 62023,
+    "lat": 39.1118,
+    "long": -89.7855,
+    "city_pop": 91,
+    "transaction_count": 843
+  },
+  "Early": {
+    "state": "IA",
+    "zip": 50535,
+    "lat": 42.4483,
+    "long": -95.1726,
+    "city_pop": 885,
+    "transaction_count": 386
+  },
+  "East Andover": {
+    "state": "ME",
+    "zip": 4226,
+    "lat": 44.6084,
+    "long": -70.6993,
+    "city_pop": 190,
+    "transaction_count": 1275
+  },
+  "East Canaan": {
+    "state": "CT",
+    "zip": 6024,
+    "lat": 42.0158,
+    "long": -73.2913,
+    "city_pop": 647,
+    "transaction_count": 2492
+  },
+  "East Rochester": {
+    "state": "NY",
+    "zip": 14445,
+    "lat": 43.1128,
+    "long": -77.4906,
+    "city_pop": 8019,
+    "transaction_count": 437
+  },
+  "East Troy": {
+    "state": "WI",
+    "zip": 53120,
+    "lat": 42.8035,
+    "long": -88.4092,
+    "city_pop": 9679,
+    "transaction_count": 846
+  },
+  "Easton": {
+    "state": "KS",
+    "zip": 66020,
+    "lat": 39.3391,
+    "long": -95.0999,
+    "city_pop": 1442,
+    "transaction_count": 846
+  },
+  "Edinburg": {
+    "state": "VA",
+    "zip": 22824,
+    "lat": 38.8432,
+    "long": -78.6003,
+    "city_pop": 6018,
+    "transaction_count": 817
+  },
+  "Edisto Island": {
+    "state": "SC",
+    "zip": 29438,
+    "lat": 32.5486,
+    "long": -80.307,
+    "city_pop": 2408,
+    "transaction_count": 2297
+  },
+  "Edmond": {
+    "state": "OK",
+    "zip": 73034,
+    "lat": 35.6665,
+    "long": -97.4798,
+    "city_pop": 116001,
+    "transaction_count": 2022
+  },
+  "Egan": {
+    "state": "LA",
+    "zip": 70531,
+    "lat": 30.251,
+    "long": -92.5002,
+    "city_pop": 1261,
+    "transaction_count": 1685
+  },
+  "Ehrhardt": {
+    "state": "SC",
+    "zip": 29081,
+    "lat": 33.1044,
+    "long": -81.0221,
+    "city_pop": 1352,
+    "transaction_count": 425
+  },
+  "El Paso": {
+    "state": "TX",
+    "zip": 79906,
+    "lat": 31.8092,
+    "long": -106.4247,
+    "city_pop": 749635,
+    "transaction_count": 440
+  },
+  "Elberta": {
+    "state": "MI",
+    "zip": 49628,
+    "lat": 44.5995,
+    "long": -86.2141,
+    "city_pop": 372,
+    "transaction_count": 2521
+  },
+  "Eldridge": {
+    "state": "AL",
+    "zip": 35554,
+    "lat": 33.9315,
+    "long": -87.6194,
+    "city_pop": 1186,
+    "transaction_count": 1241
+  },
+  "Elizabeth": {
+    "state": "NJ",
+    "zip": 7208,
+    "lat": 40.6747,
+    "long": -74.2239,
+    "city_pop": 124967,
+    "transaction_count": 2090
+  },
+  "Elizabethtown": {
+    "state": "KY",
+    "zip": 42701,
+    "lat": 37.6848,
+    "long": -85.8784,
+    "city_pop": 48194,
+    "transaction_count": 1249
+  },
+  "Elk Rapids": {
+    "state": "MI",
+    "zip": 49629,
+    "lat": 44.8955,
+    "long": -85.4082,
+    "city_pop": 2223,
+    "transaction_count": 406
+  },
+  "Elkhart": {
+    "state": "IA",
+    "zip": 50073,
+    "lat": 41.8114,
+    "long": -93.4855,
+    "city_pop": 1195,
+    "transaction_count": 1213
+  },
+  "Emmons": {
+    "state": "MN",
+    "zip": 56029,
+    "lat": 43.5089,
+    "long": -93.4824,
+    "city_pop": 744,
+    "transaction_count": 429
+  },
+  "Emporium": {
+    "state": "PA",
+    "zip": 15834,
+    "lat": 41.5177,
+    "long": -78.2536,
+    "city_pop": 4533,
+    "transaction_count": 831
+  },
+  "Enola": {
+    "state": "AR",
+    "zip": 72047,
+    "lat": 35.2087,
+    "long": -92.2123,
+    "city_pop": 969,
+    "transaction_count": 1642
+  },
+  "Esbon": {
+    "state": "KS",
+    "zip": 66941,
+    "lat": 39.7562,
+    "long": -98.4462,
+    "city_pop": 242,
+    "transaction_count": 2109
+  },
+  "Espanola": {
+    "state": "NM",
+    "zip": 87533,
+    "lat": 35.9866,
+    "long": -106.0654,
+    "city_pop": 18408,
+    "transaction_count": 2134
+  },
+  "Etlan": {
+    "state": "VA",
+    "zip": 22719,
+    "lat": 38.5095,
+    "long": -78.2638,
+    "city_pop": 395,
+    "transaction_count": 415
+  },
+  "Eugene": {
+    "state": "OR",
+    "zip": 97403,
+    "lat": 44.0385,
+    "long": -123.0614,
+    "city_pop": 191096,
+    "transaction_count": 1244
+  },
+  "Eureka": {
+    "state": "IL",
+    "zip": 61530,
+    "lat": 40.7152,
+    "long": -89.2706,
+    "city_pop": 6713,
+    "transaction_count": 1247
+  },
+  "Fairhope": {
+    "state": "AL",
+    "zip": 36532,
+    "lat": 30.5012,
+    "long": -87.8835,
+    "city_pop": 27829,
+    "transaction_count": 420
+  },
+  "Fairview": {
+    "state": "NJ",
+    "zip": 7022,
+    "lat": 40.817,
+    "long": -74.0,
+    "city_pop": 13835,
+    "transaction_count": 1263
+  },
+  "Falconer": {
+    "state": "NY",
+    "zip": 14733,
+    "lat": 42.1239,
+    "long": -79.1895,
+    "city_pop": 3833,
+    "transaction_count": 1681
+  },
+  "Falls Church": {
+    "state": "VA",
+    "zip": 22046,
+    "lat": 38.8856,
+    "long": -77.1802,
+    "city_pop": 116155,
+    "transaction_count": 827
+  },
+  "Falls City": {
+    "state": "TX",
+    "zip": 78113,
+    "lat": 28.9814,
+    "long": -98.0156,
+    "city_pop": 2435,
+    "transaction_count": 798
+  },
+  "Falmouth": {
+    "state": "MI",
+    "zip": 49632,
+    "lat": 44.2529,
+    "long": -85.017,
+    "city_pop": 1126,
+    "transaction_count": 1635
+  },
+  "Farmington": {
+    "state": "NY",
+    "zip": 14425,
+    "lat": 42.958,
+    "long": -77.3083,
+    "city_pop": 10717,
+    "transaction_count": 1214
+  },
+  "Fayetteville": {
+    "state": "NC",
+    "zip": 28314,
+    "lat": 35.0583,
+    "long": -79.008,
+    "city_pop": 238602,
+    "transaction_count": 2067
+  },
+  "Fenelton": {
+    "state": "PA",
+    "zip": 16034,
+    "lat": 40.8555,
+    "long": -79.7372,
+    "city_pop": 2054,
+    "transaction_count": 2065
+  },
+  "Ferney": {
+    "state": "SD",
+    "zip": 57439,
+    "lat": 45.329,
+    "long": -98.0837,
+    "city_pop": 52,
+    "transaction_count": 426
+  },
+  "Fiddletown": {
+    "state": "CA",
+    "zip": 95629,
+    "lat": 38.5234,
+    "long": -120.6763,
+    "city_pop": 832,
+    "transaction_count": 1654
+  },
+  "Fields Landing": {
+    "state": "CA",
+    "zip": 95537,
+    "lat": 40.7268,
+    "long": -124.2174,
+    "city_pop": 276,
+    "transaction_count": 1250
+  },
+  "Florence": {
+    "state": "MS",
+    "zip": 39073,
+    "lat": 32.153,
+    "long": -90.1217,
+    "city_pop": 19685,
+    "transaction_count": 2460
+  },
+  "Ford": {
+    "state": "VA",
+    "zip": 23850,
+    "lat": 37.1349,
+    "long": -77.7364,
+    "city_pop": 1051,
+    "transaction_count": 1223
+  },
+  "Fordoche": {
+    "state": "LA",
+    "zip": 70732,
+    "lat": 30.6576,
+    "long": -91.6264,
+    "city_pop": 1178,
+    "transaction_count": 1655
+  },
+  "Fort Myers": {
+    "state": "FL",
+    "zip": 33967,
+    "lat": 26.4722,
+    "long": -81.8122,
+    "city_pop": 224256,
+    "transaction_count": 2040
+  },
+  "Fort Washakie": {
+    "state": "WY",
+    "zip": 82514,
+    "lat": 43.0048,
+    "long": -108.8964,
+    "city_pop": 1645,
+    "transaction_count": 2860
+  },
+  "Freedom": {
+    "state": "WY",
+    "zip": 83120,
+    "lat": 43.0172,
+    "long": -111.0292,
+    "city_pop": 471,
+    "transaction_count": 1628
+  },
+  "Fullerton": {
+    "state": "NE",
+    "zip": 68638,
+    "lat": 41.366,
+    "long": -98.0054,
+    "city_pop": 1749,
+    "transaction_count": 1257
+  },
+  "Fulton": {
+    "state": "OH",
+    "zip": 43321,
+    "lat": 40.4971,
+    "long": -82.8342,
+    "city_pop": 267,
+    "transaction_count": 3148
+  },
+  "Gadsden": {
+    "state": "AL",
+    "zip": 35901,
+    "lat": 34.048,
+    "long": -85.9246,
+    "city_pop": 67082,
+    "transaction_count": 2489
+  },
+  "Gaines": {
+    "state": "MI",
+    "zip": 48436,
+    "lat": 42.8813,
+    "long": -83.8855,
+    "city_pop": 3764,
+    "transaction_count": 8
+  },
+  "Gainesville": {
+    "state": "TX",
+    "zip": 76240,
+    "lat": 33.6547,
+    "long": -97.1583,
+    "city_pop": 26120,
+    "transaction_count": 420
+  },
+  "Gaithersburg": {
+    "state": "MD",
+    "zip": 20882,
+    "lat": 39.2335,
+    "long": -77.1458,
+    "city_pop": 135332,
+    "transaction_count": 411
+  },
+  "Galatia": {
+    "state": "IL",
+    "zip": 62935,
+    "lat": 37.8274,
+    "long": -88.6235,
+    "city_pop": 1943,
+    "transaction_count": 421
+  },
+  "Gardiner": {
+    "state": "OR",
+    "zip": 97441,
+    "lat": 43.7857,
+    "long": -124.1437,
+    "city_pop": 260,
+    "transaction_count": 1205
+  },
+  "Garfield": {
+    "state": "KS",
+    "zip": 67529,
+    "lat": 38.0649,
+    "long": -99.2374,
+    "city_pop": 365,
+    "transaction_count": 404
+  },
+  "Garrattsville": {
+    "state": "NY",
+    "zip": 13342,
+    "lat": 42.6315,
+    "long": -75.1866,
+    "city_pop": 165,
+    "transaction_count": 1575
+  },
+  "Georgetown": {
+    "state": "MN",
+    "zip": 56546,
+    "lat": 47.0999,
+    "long": -96.727,
+    "city_pop": 346,
+    "transaction_count": 1652
+  },
+  "Gibsonville": {
+    "state": "NC",
+    "zip": 27249,
+    "lat": 36.1183,
+    "long": -79.5685,
+    "city_pop": 12486,
+    "transaction_count": 845
+  },
+  "Girard": {
+    "state": "GA",
+    "zip": 30426,
+    "lat": 33.0437,
+    "long": -81.7106,
+    "city_pop": 1100,
+    "transaction_count": 399
+  },
+  "Glade Spring": {
+    "state": "VA",
+    "zip": 24340,
+    "lat": 36.7779,
+    "long": -81.7676,
+    "city_pop": 5657,
+    "transaction_count": 812
+  },
+  "Glen Rock": {
+    "state": "PA",
+    "zip": 17327,
+    "lat": 39.7813,
+    "long": -76.7477,
+    "city_pop": 7565,
+    "transaction_count": 842
+  },
+  "Glendale": {
+    "state": "CA",
+    "zip": 91206,
+    "lat": 34.1556,
+    "long": -118.2322,
+    "city_pop": 172817,
+    "transaction_count": 2123
+  },
+  "Goodrich": {
+    "state": "MI",
+    "zip": 48438,
+    "lat": 42.9147,
+    "long": -83.4845,
+    "city_pop": 6951,
+    "transaction_count": 2470
+  },
+  "Goreville": {
+    "state": "IL",
+    "zip": 62939,
+    "lat": 37.575,
+    "long": -88.9655,
+    "city_pop": 3119,
+    "transaction_count": 831
+  },
+  "Granbury": {
+    "state": "TX",
+    "zip": 76048,
+    "lat": 32.425,
+    "long": -97.7742,
+    "city_pop": 47119,
+    "transaction_count": 12
+  },
+  "Grand Bay": {
+    "state": "AL",
+    "zip": 36541,
+    "lat": 30.4983,
+    "long": -88.3282,
+    "city_pop": 15647,
+    "transaction_count": 840
+  },
+  "Grand Junction": {
+    "state": "TN",
+    "zip": 38039,
+    "lat": 35.0659,
+    "long": -89.1534,
+    "city_pop": 1804,
+    "transaction_count": 1254
+  },
+  "Grand Ridge": {
+    "state": "FL",
+    "zip": 32442,
+    "lat": 30.7148,
+    "long": -85.021,
+    "city_pop": 3699,
+    "transaction_count": 821
+  },
+  "Grandview": {
+    "state": "TX",
+    "zip": 76050,
+    "lat": 32.2779,
+    "long": -97.2351,
+    "city_pop": 5875,
+    "transaction_count": 2451
+  },
+  "Graniteville": {
+    "state": "VT",
+    "zip": 5654,
+    "lat": 44.1554,
+    "long": -72.4847,
+    "city_pop": 970,
+    "transaction_count": 1634
+  },
+  "Grant": {
+    "state": "AL",
+    "zip": 35747,
+    "lat": 34.4959,
+    "long": -86.259,
+    "city_pop": 5901,
+    "transaction_count": 1627
+  },
+  "Grantham": {
+    "state": "NH",
+    "zip": 3753,
+    "lat": 43.5103,
+    "long": -72.1334,
+    "city_pop": 2971,
+    "transaction_count": 842
+  },
+  "Grassflat": {
+    "state": "PA",
+    "zip": 16839,
+    "lat": 41.0036,
+    "long": -78.1104,
+    "city_pop": 489,
+    "transaction_count": 1690
+  },
+  "Great Mills": {
+    "state": "MD",
+    "zip": 20634,
+    "lat": 38.2674,
+    "long": -76.4954,
+    "city_pop": 5927,
+    "transaction_count": 1244
+  },
+  "Greenbush": {
+    "state": "VA",
+    "zip": 23357,
+    "lat": 37.7681,
+    "long": -75.6664,
+    "city_pop": 776,
+    "transaction_count": 430
+  },
+  "Greendale": {
+    "state": "WI",
+    "zip": 53129,
+    "lat": 42.9373,
+    "long": -87.9943,
+    "city_pop": 13973,
+    "transaction_count": 1286
+  },
+  "Greenport": {
+    "state": "NY",
+    "zip": 11944,
+    "lat": 41.1039,
+    "long": -72.3674,
+    "city_pop": 4299,
+    "transaction_count": 10
+  },
+  "Greenview": {
+    "state": "CA",
+    "zip": 96037,
+    "lat": 41.5403,
+    "long": -122.9366,
+    "city_pop": 308,
+    "transaction_count": 1255
+  },
+  "Greenville": {
+    "state": "OH",
+    "zip": 45331,
+    "lat": 40.0987,
+    "long": -84.6342,
+    "city_pop": 22930,
+    "transaction_count": 844
+  },
+  "Greenwich": {
+    "state": "NJ",
+    "zip": 8323,
+    "lat": 39.4055,
+    "long": -75.3209,
+    "city_pop": 804,
+    "transaction_count": 1654
+  },
+  "Greenwood": {
+    "state": "IN",
+    "zip": 46143,
+    "lat": 39.596,
+    "long": -86.1309,
+    "city_pop": 78968,
+    "transaction_count": 850
+  },
+  "Gregory": {
+    "state": "AR",
+    "zip": 72059,
+    "lat": 35.1791,
+    "long": -91.2594,
+    "city_pop": 37,
+    "transaction_count": 818
+  },
+  "Grenada": {
+    "state": "CA",
+    "zip": 96038,
+    "lat": 41.6125,
+    "long": -122.5258,
+    "city_pop": 589,
+    "transaction_count": 1276
+  },
+  "Gretna": {
+    "state": "LA",
+    "zip": 70056,
+    "lat": 29.8872,
+    "long": -90.0331,
+    "city_pop": 55581,
+    "transaction_count": 1240
+  },
+  "Grimesland": {
+    "state": "NC",
+    "zip": 27837,
+    "lat": 35.558,
+    "long": -77.2566,
+    "city_pop": 5903,
+    "transaction_count": 782
+  },
+  "Grover": {
+    "state": "NC",
+    "zip": 28073,
+    "lat": 35.1836,
+    "long": -81.4552,
+    "city_pop": 5621,
+    "transaction_count": 2110
+  },
+  "Hahira": {
+    "state": "GA",
+    "zip": 31632,
+    "lat": 30.9416,
+    "long": -83.3574,
+    "city_pop": 10295,
+    "transaction_count": 1229
+  },
+  "Haines City": {
+    "state": "FL",
+    "zip": 33844,
+    "lat": 28.0758,
+    "long": -81.5929,
+    "city_pop": 33804,
+    "transaction_count": 831
+  },
+  "Halma": {
+    "state": "MN",
+    "zip": 56729,
+    "lat": 48.6669,
+    "long": -96.5969,
+    "city_pop": 140,
+    "transaction_count": 868
+  },
+  "Halstad": {
+    "state": "MN",
+    "zip": 56548,
+    "lat": 47.3551,
+    "long": -96.798,
+    "city_pop": 771,
+    "transaction_count": 829
+  },
+  "Hampton": {
+    "state": "VA",
+    "zip": 23666,
+    "lat": 37.0462,
+    "long": -76.4096,
+    "city_pop": 136895,
+    "transaction_count": 884
+  },
+  "Hancock": {
+    "state": "MD",
+    "zip": 21750,
+    "lat": 39.6991,
+    "long": -78.1762,
+    "city_pop": 3766,
+    "transaction_count": 2020
+  },
+  "Hannawa Falls": {
+    "state": "NY",
+    "zip": 13647,
+    "lat": 44.6087,
+    "long": -74.9732,
+    "city_pop": 69,
+    "transaction_count": 2049
+  },
+  "Harborcreek": {
+    "state": "PA",
+    "zip": 16421,
+    "lat": 42.1767,
+    "long": -79.9416,
+    "city_pop": 2518,
+    "transaction_count": 1274
+  },
+  "Harmony": {
+    "state": "PA",
+    "zip": 16037,
+    "lat": 40.8496,
+    "long": -80.1381,
+    "city_pop": 4589,
+    "transaction_count": 401
+  },
+  "Harper": {
+    "state": "TX",
+    "zip": 78631,
+    "lat": 30.2816,
+    "long": -99.241,
+    "city_pop": 2395,
+    "transaction_count": 1635
+  },
+  "Harrington Park": {
+    "state": "NJ",
+    "zip": 7640,
+    "lat": 40.9918,
+    "long": -73.98,
+    "city_pop": 4664,
+    "transaction_count": 1245
+  },
+  "Harrodsburg": {
+    "state": "IN",
+    "zip": 47434,
+    "lat": 39.013,
+    "long": -86.5457,
+    "city_pop": 76,
+    "transaction_count": 1709
+  },
+  "Hartford": {
+    "state": "AL",
+    "zip": 36344,
+    "lat": 31.086,
+    "long": -85.7192,
+    "city_pop": 5732,
+    "transaction_count": 404
+  },
+  "Harwood": {
+    "state": "MD",
+    "zip": 20776,
+    "lat": 38.8582,
+    "long": -76.6145,
+    "city_pop": 3289,
+    "transaction_count": 816
+  },
+  "Hatch": {
+    "state": "UT",
+    "zip": 84735,
+    "lat": 37.7175,
+    "long": -112.4777,
+    "city_pop": 258,
+    "transaction_count": 1234
+  },
+  "Haw River": {
+    "state": "NC",
+    "zip": 27258,
+    "lat": 36.0424,
+    "long": -79.3242,
+    "city_pop": 6006,
+    "transaction_count": 2108
+  },
+  "Hawley": {
+    "state": "MN",
+    "zip": 56549,
+    "lat": 46.9777,
+    "long": -96.4092,
+    "city_pop": 4508,
+    "transaction_count": 1257
+  },
+  "Hawthorne": {
+    "state": "CA",
+    "zip": 90250,
+    "lat": 33.9143,
+    "long": -118.3493,
+    "city_pop": 93193,
+    "transaction_count": 1254
+  },
+  "Haynes": {
+    "state": "AR",
+    "zip": 72341,
+    "lat": 34.8838,
+    "long": -90.7666,
+    "city_pop": 222,
+    "transaction_count": 827
+  },
+  "Hazel": {
+    "state": "KY",
+    "zip": 42049,
+    "lat": 36.5422,
+    "long": -88.3319,
+    "city_pop": 1480,
+    "transaction_count": 428
+  },
+  "Heart Butte": {
+    "state": "MT",
+    "zip": 59448,
+    "lat": 48.2777,
+    "long": -112.8456,
+    "city_pop": 743,
+    "transaction_count": 2506
+  },
+  "Hedley": {
+    "state": "TX",
+    "zip": 79237,
+    "lat": 34.8698,
+    "long": -100.6806,
+    "city_pop": 513,
+    "transaction_count": 830
+  },
+  "Hedrick": {
+    "state": "IA",
+    "zip": 52563,
+    "lat": 41.1826,
+    "long": -92.3097,
+    "city_pop": 1583,
+    "transaction_count": 798
+  },
+  "Heidelberg": {
+    "state": "MS",
+    "zip": 39439,
+    "lat": 31.882,
+    "long": -88.9981,
+    "city_pop": 4573,
+    "transaction_count": 828
+  },
+  "Heiskell": {
+    "state": "TN",
+    "zip": 37754,
+    "lat": 36.115,
+    "long": -84.0438,
+    "city_pop": 4729,
+    "transaction_count": 1649
+  },
+  "Heislerville": {
+    "state": "NJ",
+    "zip": 8324,
+    "lat": 39.224,
+    "long": -74.9942,
+    "city_pop": 526,
+    "transaction_count": 867
+  },
+  "Helm": {
+    "state": "CA",
+    "zip": 93627,
+    "lat": 36.4992,
+    "long": -120.0936,
+    "city_pop": 123,
+    "transaction_count": 1640
+  },
+  "Henderson": {
+    "state": "WV",
+    "zip": 25106,
+    "lat": 38.8265,
+    "long": -82.1364,
+    "city_pop": 642,
+    "transaction_count": 1255
+  },
+  "Hewitt": {
+    "state": "WI",
+    "zip": 54441,
+    "lat": 44.6437,
+    "long": -90.1031,
+    "city_pop": 828,
+    "transaction_count": 1629
+  },
+  "Higganum": {
+    "state": "CT",
+    "zip": 6441,
+    "lat": 41.4682,
+    "long": -72.5751,
+    "city_pop": 5438,
+    "transaction_count": 849
+  },
+  "High Rolls Mountain Park": {
+    "state": "NM",
+    "zip": 88325,
+    "lat": 32.9396,
+    "long": -105.8189,
+    "city_pop": 899,
+    "transaction_count": 1672
+  },
+  "Highland": {
+    "state": "IN",
+    "zip": 46322,
+    "lat": 41.55,
+    "long": -87.4569,
+    "city_pop": 23727,
+    "transaction_count": 1273
+  },
+  "Hills": {
+    "state": "MN",
+    "zip": 56138,
+    "lat": 43.5335,
+    "long": -96.3645,
+    "city_pop": 899,
+    "transaction_count": 408
+  },
+  "Hinckley": {
+    "state": "OH",
+    "zip": 44233,
+    "lat": 41.2419,
+    "long": -81.7453,
+    "city_pop": 7646,
+    "transaction_count": 2506
+  },
+  "Hinesburg": {
+    "state": "VT",
+    "zip": 5461,
+    "lat": 44.3346,
+    "long": -73.098,
+    "city_pop": 4542,
+    "transaction_count": 2542
+  },
+  "Holcomb": {
+    "state": "KS",
+    "zip": 67851,
+    "lat": 37.9931,
+    "long": -100.9893,
+    "city_pop": 2691,
+    "transaction_count": 1679
+  },
+  "Holliday": {
+    "state": "TX",
+    "zip": 76366,
+    "lat": 33.6751,
+    "long": -98.6576,
+    "city_pop": 2317,
+    "transaction_count": 1656
+  },
+  "Holloway": {
+    "state": "OH",
+    "zip": 43985,
+    "lat": 40.0113,
+    "long": -80.9701,
+    "city_pop": 128,
+    "transaction_count": 1239
+  },
+  "Holstein": {
+    "state": "NE",
+    "zip": 68950,
+    "lat": 40.4542,
+    "long": -98.6538,
+    "city_pop": 331,
+    "transaction_count": 1709
+  },
+  "Honokaa": {
+    "state": "HI",
+    "zip": 96727,
+    "lat": 20.0827,
+    "long": -155.488,
+    "city_pop": 4878,
+    "transaction_count": 838
+  },
+  "Hooper": {
+    "state": "NE",
+    "zip": 68031,
+    "lat": 41.6414,
+    "long": -96.5232,
+    "city_pop": 1745,
+    "transaction_count": 1662
+  },
+  "Hopewell": {
+    "state": "VA",
+    "zip": 23860,
+    "lat": 37.2876,
+    "long": -77.295,
+    "city_pop": 31970,
+    "transaction_count": 398
+  },
+  "Hopkins": {
+    "state": "SC",
+    "zip": 29061,
+    "lat": 33.9349,
+    "long": -80.8449,
+    "city_pop": 13717,
+    "transaction_count": 1241
+  },
+  "Houston": {
+    "state": "TX",
+    "zip": 77026,
+    "lat": 29.7972,
+    "long": -95.3288,
+    "city_pop": 2906700,
+    "transaction_count": 3389
+  },
+  "Hovland": {
+    "state": "MN",
+    "zip": 55606,
+    "lat": 47.8342,
+    "long": -90.0476,
+    "city_pop": 272,
+    "transaction_count": 773
+  },
+  "Howells": {
+    "state": "NE",
+    "zip": 68641,
+    "lat": 41.6964,
+    "long": -96.9858,
+    "city_pop": 1063,
+    "transaction_count": 1260
+  },
+  "Howes Cave": {
+    "state": "NY",
+    "zip": 12092,
+    "lat": 42.7045,
+    "long": -74.3648,
+    "city_pop": 1304,
+    "transaction_count": 412
+  },
+  "Hubbell": {
+    "state": "NE",
+    "zip": 68375,
+    "lat": 40.0456,
+    "long": -97.4735,
+    "city_pop": 121,
+    "transaction_count": 19
+  },
+  "Hudson": {
+    "state": "NY",
+    "zip": 12534,
+    "lat": 42.247,
+    "long": -73.7552,
+    "city_pop": 17867,
+    "transaction_count": 2876
+  },
+  "Humble": {
+    "state": "TX",
+    "zip": 77338,
+    "lat": 30.0041,
+    "long": -95.2825,
+    "city_pop": 194500,
+    "transaction_count": 816
+  },
+  "Humboldt": {
+    "state": "AZ",
+    "zip": 86329,
+    "lat": 34.5189,
+    "long": -112.2523,
+    "city_pop": 1179,
+    "transaction_count": 389
+  },
+  "Huntington Beach": {
+    "state": "CA",
+    "zip": 92648,
+    "lat": 33.6773,
+    "long": -118.0051,
+    "city_pop": 190249,
+    "transaction_count": 423
+  },
+  "Huntsville": {
+    "state": "AL",
+    "zip": 35811,
+    "lat": 34.7789,
+    "long": -86.5438,
+    "city_pop": 190178,
+    "transaction_count": 2864
+  },
+  "Hurley": {
+    "state": "SD",
+    "zip": 57036,
+    "lat": 43.2893,
+    "long": -97.1904,
+    "city_pop": 811,
+    "transaction_count": 857
+  },
+  "Hurricane": {
+    "state": "WV",
+    "zip": 25526,
+    "lat": 38.4257,
+    "long": -81.9943,
+    "city_pop": 21902,
+    "transaction_count": 1678
+  },
+  "Huslia": {
+    "state": "AK",
+    "zip": 99746,
+    "lat": 65.6899,
+    "long": -156.292,
+    "city_pop": 277,
+    "transaction_count": 428
+  },
+  "Iliff": {
+    "state": "CO",
+    "zip": 80736,
+    "lat": 40.7692,
+    "long": -103.0968,
+    "city_pop": 648,
+    "transaction_count": 837
+  },
+  "Independence": {
+    "state": "MO",
+    "zip": 64058,
+    "lat": 39.1412,
+    "long": -94.3515,
+    "city_pop": 123373,
+    "transaction_count": 1261
+  },
+  "Indian Wells": {
+    "state": "CA",
+    "zip": 92210,
+    "lat": 33.7163,
+    "long": -116.3381,
+    "city_pop": 4677,
+    "transaction_count": 1243
+  },
+  "Indianapolis": {
+    "state": "IN",
+    "zip": 46254,
+    "lat": 39.849,
+    "long": -86.272,
+    "city_pop": 910148,
+    "transaction_count": 3307
+  },
+  "Ironton": {
+    "state": "OH",
+    "zip": 45638,
+    "lat": 38.5294,
+    "long": -82.6654,
+    "city_pop": 21635,
+    "transaction_count": 436
+  },
+  "Irvine": {
+    "state": "PA",
+    "zip": 16329,
+    "lat": 41.8117,
+    "long": -79.2643,
+    "city_pop": 528,
+    "transaction_count": 1240
+  },
+  "Irvington": {
+    "state": "NY",
+    "zip": 10533,
+    "lat": 41.0381,
+    "long": -73.8597,
+    "city_pop": 7322,
+    "transaction_count": 8
+  },
+  "Irwinton": {
+    "state": "GA",
+    "zip": 31042,
+    "lat": 32.8088,
+    "long": -83.174,
+    "city_pop": 1841,
+    "transaction_count": 1235
+  },
+  "Isanti": {
+    "state": "MN",
+    "zip": 55040,
+    "lat": 45.4682,
+    "long": -93.2266,
+    "city_pop": 12568,
+    "transaction_count": 10
+  },
+  "Iselin": {
+    "state": "NJ",
+    "zip": 8830,
+    "lat": 40.5716,
+    "long": -74.3167,
+    "city_pop": 18459,
+    "transaction_count": 412
+  },
+  "Issaquah": {
+    "state": "WA",
+    "zip": 98027,
+    "lat": 47.4974,
+    "long": -122.0107,
+    "city_pop": 50489,
+    "transaction_count": 2106
+  },
+  "Jackson": {
+    "state": "MS",
+    "zip": 39211,
+    "lat": 32.3739,
+    "long": -90.1293,
+    "city_pop": 233060,
+    "transaction_count": 379
+  },
+  "Jaffrey": {
+    "state": "NH",
+    "zip": 3452,
+    "lat": 42.8178,
+    "long": -72.0275,
+    "city_pop": 5457,
+    "transaction_count": 425
+  },
+  "Jay": {
+    "state": "FL",
+    "zip": 32565,
+    "lat": 30.8985,
+    "long": -87.1332,
+    "city_pop": 5719,
+    "transaction_count": 401
+  },
+  "Jefferson": {
+    "state": "NY",
+    "zip": 12093,
+    "lat": 42.4999,
+    "long": -74.6117,
+    "city_pop": 1666,
+    "transaction_count": 1253
+  },
+  "Jelm": {
+    "state": "WY",
+    "zip": 82063,
+    "lat": 41.0539,
+    "long": -106.0763,
+    "city_pop": 100,
+    "transaction_count": 1221
+  },
+  "Jermyn": {
+    "state": "PA",
+    "zip": 18433,
+    "lat": 41.5744,
+    "long": -75.5881,
+    "city_pop": 6508,
+    "transaction_count": 1252
+  },
+  "Johns Island": {
+    "state": "SC",
+    "zip": 29455,
+    "lat": 32.8357,
+    "long": -79.8217,
+    "city_pop": 20478,
+    "transaction_count": 2091
+  },
+  "Joliet": {
+    "state": "IL",
+    "zip": 60432,
+    "lat": 41.5378,
+    "long": -88.0572,
+    "city_pop": 128354,
+    "transaction_count": 1232
+  },
+  "Jones": {
+    "state": "AL",
+    "zip": 36749,
+    "lat": 32.5104,
+    "long": -86.8138,
+    "city_pop": 1089,
+    "transaction_count": 2515
+  },
+  "Jordan Valley": {
+    "state": "OR",
+    "zip": 97910,
+    "lat": 42.8801,
+    "long": -117.281,
+    "city_pop": 641,
+    "transaction_count": 410
+  },
+  "Jordanville": {
+    "state": "NY",
+    "zip": 13361,
+    "lat": 42.8948,
+    "long": -74.8209,
+    "city_pop": 824,
+    "transaction_count": 855
+  },
+  "Juliette": {
+    "state": "GA",
+    "zip": 31046,
+    "lat": 33.1194,
+    "long": -83.8235,
+    "city_pop": 3343,
+    "transaction_count": 1265
+  },
+  "June Lake": {
+    "state": "CA",
+    "zip": 93529,
+    "lat": 37.7773,
+    "long": -119.0825,
+    "city_pop": 633,
+    "transaction_count": 1235
+  },
+  "Kaktovik": {
+    "state": "AK",
+    "zip": 99747,
+    "lat": 66.6933,
+    "long": -153.994,
+    "city_pop": 239,
+    "transaction_count": 12
+  },
+  "Kansas City": {
+    "state": "MO",
+    "zip": 64114,
+    "lat": 38.9621,
+    "long": -94.5959,
+    "city_pop": 545147,
+    "transaction_count": 1655
+  },
+  "Karnack": {
+    "state": "TX",
+    "zip": 75661,
+    "lat": 32.6205,
+    "long": -94.2,
+    "city_pop": 2807,
+    "transaction_count": 1232
+  },
+  "Karns City": {
+    "state": "PA",
+    "zip": 16041,
+    "lat": 41.0022,
+    "long": -79.716,
+    "city_pop": 1888,
+    "transaction_count": 7
+  },
+  "Keisterville": {
+    "state": "PA",
+    "zip": 15449,
+    "lat": 39.9636,
+    "long": -79.7853,
+    "city_pop": 184,
+    "transaction_count": 1674
+  },
+  "Keller": {
+    "state": "TX",
+    "zip": 76248,
+    "lat": 32.9276,
+    "long": -97.2489,
+    "city_pop": 95035,
+    "transaction_count": 1213
+  },
+  "Kenner": {
+    "state": "LA",
+    "zip": 70062,
+    "lat": 29.9912,
+    "long": -90.2479,
+    "city_pop": 68211,
+    "transaction_count": 1250
+  },
+  "Kensington": {
+    "state": "MD",
+    "zip": 20895,
+    "lat": 39.0298,
+    "long": -77.0793,
+    "city_pop": 19054,
+    "transaction_count": 2069
+  },
+  "Kent": {
+    "state": "OR",
+    "zip": 97033,
+    "lat": 45.0838,
+    "long": -120.6649,
+    "city_pop": 60,
+    "transaction_count": 848
+  },
+  "Key West": {
+    "state": "FL",
+    "zip": 33040,
+    "lat": 24.6557,
+    "long": -81.3824,
+    "city_pop": 32891,
+    "transaction_count": 2103
+  },
+  "Kilgore": {
+    "state": "TX",
+    "zip": 75662,
+    "lat": 32.3836,
+    "long": -94.8653,
+    "city_pop": 24536,
+    "transaction_count": 1212
+  },
+  "Kings Bay": {
+    "state": "GA",
+    "zip": 31547,
+    "lat": 30.7906,
+    "long": -81.5607,
+    "city_pop": 1293,
+    "transaction_count": 405
+  },
+  "Kingsford Heights": {
+    "state": "IN",
+    "zip": 46346,
+    "lat": 41.4802,
+    "long": -86.6919,
+    "city_pop": 1423,
+    "transaction_count": 2309
+  },
+  "Kingsport": {
+    "state": "TN",
+    "zip": 37663,
+    "lat": 36.4715,
+    "long": -82.4834,
+    "city_pop": 87124,
+    "transaction_count": 806
+  },
+  "Kingsville": {
+    "state": "MD",
+    "zip": 21087,
+    "lat": 39.4558,
+    "long": -76.4147,
+    "city_pop": 5451,
+    "transaction_count": 421
+  },
+  "Kirby": {
+    "state": "OH",
+    "zip": 43330,
+    "lat": 40.813,
+    "long": -83.4196,
+    "city_pop": 118,
+    "transaction_count": 1654
+  },
+  "Kirk": {
+    "state": "CO",
+    "zip": 80824,
+    "lat": 39.6171,
+    "long": -102.4776,
+    "city_pop": 207,
+    "transaction_count": 828
+  },
+  "Kirtland Afb": {
+    "state": "NM",
+    "zip": 87117,
+    "lat": 35.0203,
+    "long": -106.5503,
+    "city_pop": 310,
+    "transaction_count": 834
+  },
+  "Kissee Mills": {
+    "state": "MO",
+    "zip": 65680,
+    "lat": 36.6704,
+    "long": -93.0377,
+    "city_pop": 1201,
+    "transaction_count": 1281
+  },
+  "Kittery Point": {
+    "state": "ME",
+    "zip": 3905,
+    "lat": 43.0976,
+    "long": -70.7121,
+    "city_pop": 1780,
+    "transaction_count": 428
+  },
+  "Knowlesville": {
+    "state": "NY",
+    "zip": 14479,
+    "lat": 43.2363,
+    "long": -78.3138,
+    "city_pop": 275,
+    "transaction_count": 427
+  },
+  "Knoxville": {
+    "state": "TN",
+    "zip": 37932,
+    "lat": 35.9335,
+    "long": -84.1481,
+    "city_pop": 391389,
+    "transaction_count": 2091
+  },
+  "La Grande": {
+    "state": "OR",
+    "zip": 97850,
+    "lat": 45.3304,
+    "long": -118.0852,
+    "city_pop": 16955,
+    "transaction_count": 12
+  },
+  "Lagrange": {
+    "state": "WY",
+    "zip": 82221,
+    "lat": 41.6423,
+    "long": -104.1974,
+    "city_pop": 635,
+    "transaction_count": 838
+  },
+  "Laguna Hills": {
+    "state": "CA",
+    "zip": 92637,
+    "lat": 33.615,
+    "long": -117.7114,
+    "city_pop": 45303,
+    "transaction_count": 1254
+  },
+  "Lahoma": {
+    "state": "OK",
+    "zip": 73754,
+    "lat": 36.385,
+    "long": -98.0727,
+    "city_pop": 1078,
+    "transaction_count": 2905
+  },
+  "Lake Jackson": {
+    "state": "TX",
+    "zip": 77566,
+    "lat": 29.0393,
+    "long": -95.4401,
+    "city_pop": 28739,
+    "transaction_count": 2083
+  },
+  "Lake Oswego": {
+    "state": "OR",
+    "zip": 97034,
+    "lat": 45.4093,
+    "long": -122.6847,
+    "city_pop": 42817,
+    "transaction_count": 1268
+  },
+  "Lakeland": {
+    "state": "FL",
+    "zip": 33809,
+    "lat": 28.1762,
+    "long": -81.9591,
+    "city_pop": 237282,
+    "transaction_count": 2969
+  },
+  "Lakeport": {
+    "state": "CA",
+    "zip": 95453,
+    "lat": 39.047,
+    "long": -122.9328,
+    "city_pop": 11256,
+    "transaction_count": 1617
+  },
+  "Lakeview": {
+    "state": "MI",
+    "zip": 48850,
+    "lat": 43.4269,
+    "long": -85.2924,
+    "city_pop": 4474,
+    "transaction_count": 841
+  },
+  "Lamberton": {
+    "state": "MN",
+    "zip": 56152,
+    "lat": 44.2378,
+    "long": -95.2739,
+    "city_pop": 1507,
+    "transaction_count": 1253
+  },
+  "Lamy": {
+    "state": "NM",
+    "zip": 87540,
+    "lat": 35.4311,
+    "long": -105.9409,
+    "city_pop": 923,
+    "transaction_count": 414
+  },
+  "Lanark Village": {
+    "state": "FL",
+    "zip": 32323,
+    "lat": 29.8826,
+    "long": -84.5964,
+    "city_pop": 217,
+    "transaction_count": 2036
+  },
+  "Lane": {
+    "state": "OK",
+    "zip": 74555,
+    "lat": 34.2691,
+    "long": -95.9685,
+    "city_pop": 861,
+    "transaction_count": 419
+  },
+  "Laramie": {
+    "state": "WY",
+    "zip": 82072,
+    "lat": 41.4247,
+    "long": -105.4781,
+    "city_pop": 35371,
+    "transaction_count": 1646
+  },
+  "Laredo": {
+    "state": "TX",
+    "zip": 78040,
+    "lat": 27.5155,
+    "long": -99.4986,
+    "city_pop": 248858,
+    "transaction_count": 1221
+  },
+  "Lawn": {
+    "state": "PA",
+    "zip": 17041,
+    "lat": 40.2236,
+    "long": -76.538,
+    "city_pop": 213,
+    "transaction_count": 1634
+  },
+  "Lawrence": {
+    "state": "MA",
+    "zip": 1843,
+    "lat": 42.6911,
+    "long": -71.1605,
+    "city_pop": 76383,
+    "transaction_count": 2090
+  },
+  "Lebanon": {
+    "state": "VA",
+    "zip": 24266,
+    "lat": 36.8809,
+    "long": -82.0956,
+    "city_pop": 9521,
+    "transaction_count": 816
+  },
+  "Leetsdale": {
+    "state": "PA",
+    "zip": 15056,
+    "lat": 40.5662,
+    "long": -80.2099,
+    "city_pop": 1140,
+    "transaction_count": 796
+  },
+  "Leo": {
+    "state": "IN",
+    "zip": 46765,
+    "lat": 41.2249,
+    "long": -85.0301,
+    "city_pop": 5341,
+    "transaction_count": 1635
+  },
+  "Leonard": {
+    "state": "TX",
+    "zip": 75452,
+    "lat": 33.4044,
+    "long": -96.2238,
+    "city_pop": 4090,
+    "transaction_count": 2056
+  },
+  "Lepanto": {
+    "state": "AR",
+    "zip": 72354,
+    "lat": 35.6069,
+    "long": -90.3359,
+    "city_pop": 2470,
+    "transaction_count": 416
+  },
+  "Liberty Mills": {
+    "state": "IN",
+    "zip": 46946,
+    "lat": 41.0356,
+    "long": -85.7358,
+    "city_pop": 136,
+    "transaction_count": 410
+  },
+  "Lima": {
+    "state": "OH",
+    "zip": 45801,
+    "lat": 40.7641,
+    "long": -84.0973,
+    "city_pop": 86954,
+    "transaction_count": 1237
+  },
+  "Linthicum Heights": {
+    "state": "MD",
+    "zip": 21090,
+    "lat": 39.2092,
+    "long": -76.6681,
+    "city_pop": 9784,
+    "transaction_count": 447
+  },
+  "Lithopolis": {
+    "state": "OH",
+    "zip": 43136,
+    "lat": 39.8013,
+    "long": -82.8125,
+    "city_pop": 460,
+    "transaction_count": 356
+  },
+  "Littleton": {
+    "state": "CO",
+    "zip": 80120,
+    "lat": 39.5994,
+    "long": -105.0044,
+    "city_pop": 320420,
+    "transaction_count": 2496
+  },
+  "Livonia": {
+    "state": "MI",
+    "zip": 48154,
+    "lat": 42.3958,
+    "long": -83.3772,
+    "city_pop": 96942,
+    "transaction_count": 422
+  },
+  "Llano": {
+    "state": "NM",
+    "zip": 87543,
+    "lat": 36.1486,
+    "long": -105.6648,
+    "city_pop": 247,
+    "transaction_count": 836
+  },
+  "Loami": {
+    "state": "IL",
+    "zip": 62661,
+    "lat": 39.6704,
+    "long": -89.8588,
+    "city_pop": 1213,
+    "transaction_count": 412
+  },
+  "Logan": {
+    "state": "IL",
+    "zip": 62856,
+    "lat": 37.9943,
+    "long": -88.9417,
+    "city_pop": 324,
+    "transaction_count": 1660
+  },
+  "Lohrville": {
+    "state": "IA",
+    "zip": 51453,
+    "lat": 42.2619,
+    "long": -94.5566,
+    "city_pop": 695,
+    "transaction_count": 1705
+  },
+  "Lolita": {
+    "state": "TX",
+    "zip": 77971,
+    "lat": 28.7724,
+    "long": -96.4793,
+    "city_pop": 911,
+    "transaction_count": 1240
+  },
+  "Lomax": {
+    "state": "IL",
+    "zip": 61454,
+    "lat": 40.6761,
+    "long": -91.0391,
+    "city_pop": 725,
+    "transaction_count": 2456
+  },
+  "Lonetree": {
+    "state": "WY",
+    "zip": 82936,
+    "lat": 41.0552,
+    "long": -110.1603,
+    "city_pop": 49,
+    "transaction_count": 842
+  },
+  "Lonsdale": {
+    "state": "MN",
+    "zip": 55046,
+    "lat": 44.4477,
+    "long": -93.4252,
+    "city_pop": 5211,
+    "transaction_count": 1640
+  },
+  "Lorenzo": {
+    "state": "TX",
+    "zip": 79343,
+    "lat": 33.6666,
+    "long": -101.5277,
+    "city_pop": 1571,
+    "transaction_count": 410
+  },
+  "Los Angeles": {
+    "state": "CA",
+    "zip": 90014,
+    "lat": 34.0443,
+    "long": -118.2509,
+    "city_pop": 2383912,
+    "transaction_count": 427
+  },
+  "Louisiana": {
+    "state": "MO",
+    "zip": 63353,
+    "lat": 39.4336,
+    "long": -91.0664,
+    "city_pop": 4593,
+    "transaction_count": 398
+  },
+  "Louisville": {
+    "state": "KY",
+    "zip": 40202,
+    "lat": 38.2507,
+    "long": -85.7476,
+    "city_pop": 736284,
+    "transaction_count": 1667
+  },
+  "Loving": {
+    "state": "NM",
+    "zip": 88256,
+    "lat": 32.274,
+    "long": -104.0914,
+    "city_pop": 1925,
+    "transaction_count": 401
+  },
+  "Lowell": {
+    "state": "OR",
+    "zip": 97452,
+    "lat": 43.921,
+    "long": -122.7806,
+    "city_pop": 1420,
+    "transaction_count": 1244
+  },
+  "Lowville": {
+    "state": "NY",
+    "zip": 13367,
+    "lat": 43.7893,
+    "long": -75.4156,
+    "city_pop": 8830,
+    "transaction_count": 1253
+  },
+  "Loxahatchee": {
+    "state": "FL",
+    "zip": 33470,
+    "lat": 26.7383,
+    "long": -80.276,
+    "city_pop": 26551,
+    "transaction_count": 1286
+  },
+  "Lubbock": {
+    "state": "TX",
+    "zip": 79413,
+    "lat": 33.5466,
+    "long": -101.8871,
+    "city_pop": 254282,
+    "transaction_count": 816
+  },
+  "Luray": {
+    "state": "MO",
+    "zip": 63453,
+    "lat": 40.4931,
+    "long": -91.8912,
+    "city_pop": 519,
+    "transaction_count": 1258
+  },
+  "Luzerne": {
+    "state": "MI",
+    "zip": 48636,
+    "lat": 44.6001,
+    "long": -84.2931,
+    "city_pop": 864,
+    "transaction_count": 801
+  },
+  "Madisonville": {
+    "state": "LA",
+    "zip": 70447,
+    "lat": 30.4287,
+    "long": -90.1773,
+    "city_pop": 10150,
+    "transaction_count": 11
+  },
+  "Malad City": {
+    "state": "ID",
+    "zip": 83252,
+    "lat": 42.1808,
+    "long": -112.262,
+    "city_pop": 4154,
+    "transaction_count": 398
+  },
+  "Mallie": {
+    "state": "KY",
+    "zip": 41836,
+    "lat": 37.2692,
+    "long": -82.9161,
+    "city_pop": 798,
+    "transaction_count": 1642
+  },
+  "Manchester": {
+    "state": "MD",
+    "zip": 21102,
+    "lat": 39.6747,
+    "long": -76.8941,
+    "city_pop": 11751,
+    "transaction_count": 1229
+  },
+  "Manderson": {
+    "state": "SD",
+    "zip": 57756,
+    "lat": 43.3526,
+    "long": -102.5411,
+    "city_pop": 1126,
+    "transaction_count": 1610
+  },
+  "Manistique": {
+    "state": "MI",
+    "zip": 49854,
+    "lat": 46.0062,
+    "long": -86.2555,
+    "city_pop": 6469,
+    "transaction_count": 2401
+  },
+  "Manley": {
+    "state": "NE",
+    "zip": 68403,
+    "lat": 40.9207,
+    "long": -96.168,
+    "city_pop": 206,
+    "transaction_count": 1262
+  },
+  "Manor": {
+    "state": "PA",
+    "zip": 15665,
+    "lat": 40.3359,
+    "long": -79.6607,
+    "city_pop": 1472,
+    "transaction_count": 801
+  },
+  "Manquin": {
+    "state": "VA",
+    "zip": 23106,
+    "lat": 37.7184,
+    "long": -77.186,
+    "city_pop": 976,
+    "transaction_count": 399
+  },
+  "Mansfield": {
+    "state": "OH",
+    "zip": 44902,
+    "lat": 40.7559,
+    "long": -82.5123,
+    "city_pop": 92985,
+    "transaction_count": 1205
+  },
+  "Manville": {
+    "state": "WY",
+    "zip": 82227,
+    "lat": 42.73,
+    "long": -104.7024,
+    "city_pop": 241,
+    "transaction_count": 1622
+  },
+  "Marathon": {
+    "state": "TX",
+    "zip": 79842,
+    "lat": 30.1886,
+    "long": -103.2214,
+    "city_pop": 498,
+    "transaction_count": 1643
+  },
+  "Margaretville": {
+    "state": "NY",
+    "zip": 12455,
+    "lat": 42.1852,
+    "long": -74.6178,
+    "city_pop": 1988,
+    "transaction_count": 1234
+  },
+  "Maria Stein": {
+    "state": "OH",
+    "zip": 45860,
+    "lat": 40.4062,
+    "long": -84.5076,
+    "city_pop": 2274,
+    "transaction_count": 428
+  },
+  "Marienville": {
+    "state": "PA",
+    "zip": 16239,
+    "lat": 41.4622,
+    "long": -79.1306,
+    "city_pop": 4172,
+    "transaction_count": 1245
+  },
+  "Marietta": {
+    "state": "SC",
+    "zip": 29661,
+    "lat": 35.0296,
+    "long": -82.5136,
+    "city_pop": 5648,
+    "transaction_count": 401
+  },
+  "Marion": {
+    "state": "CT",
+    "zip": 6444,
+    "lat": 41.7918,
+    "long": -72.7188,
+    "city_pop": 370,
+    "transaction_count": 847
+  },
+  "Marshall": {
+    "state": "WI",
+    "zip": 53559,
+    "lat": 43.1636,
+    "long": -89.0753,
+    "city_pop": 6063,
+    "transaction_count": 10
+  },
+  "Matawan": {
+    "state": "NJ",
+    "zip": 7747,
+    "lat": 40.4109,
+    "long": -74.238,
+    "city_pop": 30770,
+    "transaction_count": 1647
+  },
+  "Matthews": {
+    "state": "MO",
+    "zip": 63867,
+    "lat": 36.7154,
+    "long": -89.6287,
+    "city_pop": 1019,
+    "transaction_count": 1233
+  },
+  "May": {
+    "state": "TX",
+    "zip": 76857,
+    "lat": 31.9571,
+    "long": -98.9656,
+    "city_pop": 1791,
+    "transaction_count": 1622
+  },
+  "Mayersville": {
+    "state": "MS",
+    "zip": 39113,
+    "lat": 32.9013,
+    "long": -91.0286,
+    "city_pop": 595,
+    "transaction_count": 1632
+  },
+  "Maysville": {
+    "state": "KY",
+    "zip": 41056,
+    "lat": 38.6207,
+    "long": -83.8067,
+    "city_pop": 14228,
+    "transaction_count": 867
+  },
+  "Mc Clellandtown": {
+    "state": "PA",
+    "zip": 15458,
+    "lat": 39.8882,
+    "long": -79.8694,
+    "city_pop": 2379,
+    "transaction_count": 412
+  },
+  "Mc Cracken": {
+    "state": "KS",
+    "zip": 67556,
+    "lat": 38.5957,
+    "long": -99.554,
+    "city_pop": 320,
+    "transaction_count": 1248
+  },
+  "Mc Intosh": {
+    "state": "SD",
+    "zip": 57641,
+    "lat": 45.7084,
+    "long": -101.1546,
+    "city_pop": 295,
+    "transaction_count": 409
+  },
+  "Mc Nabb": {
+    "state": "IL",
+    "zip": 61335,
+    "lat": 41.173,
+    "long": -89.2187,
+    "city_pop": 532,
+    "transaction_count": 1689
+  },
+  "Mc Veytown": {
+    "state": "PA",
+    "zip": 17051,
+    "lat": 40.5046,
+    "long": -77.7186,
+    "city_pop": 4653,
+    "transaction_count": 1667
+  },
+  "Meadville": {
+    "state": "MO",
+    "zip": 64659,
+    "lat": 39.7795,
+    "long": -93.3014,
+    "city_pop": 964,
+    "transaction_count": 2067
+  },
+  "Medford": {
+    "state": "NY",
+    "zip": 11763,
+    "lat": 40.8174,
+    "long": -72.9852,
+    "city_pop": 28506,
+    "transaction_count": 9
+  },
+  "Melbourne": {
+    "state": "FL",
+    "zip": 32935,
+    "lat": 28.1384,
+    "long": -80.6524,
+    "city_pop": 139650,
+    "transaction_count": 820
+  },
+  "Melville": {
+    "state": "NY",
+    "zip": 11747,
+    "lat": 40.7946,
+    "long": -73.403,
+    "city_pop": 19803,
+    "transaction_count": 15
+  },
+  "Mendon": {
+    "state": "UT",
+    "zip": 84325,
+    "lat": 41.71,
+    "long": -111.9817,
+    "city_pop": 2078,
+    "transaction_count": 817
+  },
+  "Meredith": {
+    "state": "CO",
+    "zip": 81642,
+    "lat": 39.3199,
+    "long": -106.6596,
+    "city_pop": 61,
+    "transaction_count": 1624
+  },
+  "Meridian": {
+    "state": "TX",
+    "zip": 76665,
+    "lat": 31.929,
+    "long": -97.6443,
+    "city_pop": 2526,
+    "transaction_count": 4149
+  },
+  "Mesa": {
+    "state": "ID",
+    "zip": 83643,
+    "lat": 44.6255,
+    "long": -116.4493,
+    "city_pop": 129,
+    "transaction_count": 1672
+  },
+  "Metairie": {
+    "state": "LA",
+    "zip": 70003,
+    "lat": 29.9975,
+    "long": -90.2146,
+    "city_pop": 137067,
+    "transaction_count": 830
+  },
+  "Methuen": {
+    "state": "MA",
+    "zip": 1844,
+    "lat": 42.728,
+    "long": -71.181,
+    "city_pop": 47249,
+    "transaction_count": 1657
+  },
+  "Miamisburg": {
+    "state": "OH",
+    "zip": 45342,
+    "lat": 39.6321,
+    "long": -84.2675,
+    "city_pop": 36784,
+    "transaction_count": 799
+  },
+  "Michigan": {
+    "state": "ND",
+    "zip": 58259,
+    "lat": 48.0204,
+    "long": -98.1186,
+    "city_pop": 454,
+    "transaction_count": 401
+  },
+  "Mifflin": {
+    "state": "PA",
+    "zip": 17058,
+    "lat": 40.5553,
+    "long": -77.4001,
+    "city_pop": 1909,
+    "transaction_count": 1634
+  },
+  "Milford": {
+    "state": "OH",
+    "zip": 45150,
+    "lat": 39.1657,
+    "long": -84.233,
+    "city_pop": 31394,
+    "transaction_count": 2034
+  },
+  "Mill Creek": {
+    "state": "PA",
+    "zip": 17060,
+    "lat": 40.4679,
+    "long": -77.8967,
+    "city_pop": 1334,
+    "transaction_count": 1232
+  },
+  "Milner": {
+    "state": "GA",
+    "zip": 30257,
+    "lat": 33.141,
+    "long": -84.1759,
+    "city_pop": 4138,
+    "transaction_count": 826
+  },
+  "Milwaukee": {
+    "state": "WI",
+    "zip": 53228,
+    "lat": 42.9676,
+    "long": -88.0434,
+    "city_pop": 817312,
+    "transaction_count": 1261
+  },
+  "Mineral": {
+    "state": "VA",
+    "zip": 23117,
+    "lat": 37.9986,
+    "long": -77.8781,
+    "city_pop": 9141,
+    "transaction_count": 12
+  },
+  "Minneapolis": {
+    "state": "MN",
+    "zip": 55403,
+    "lat": 44.9673,
+    "long": -93.2828,
+    "city_pop": 1022298,
+    "transaction_count": 1197
+  },
+  "Minnesota Lake": {
+    "state": "MN",
+    "zip": 56068,
+    "lat": 43.8295,
+    "long": -93.8282,
+    "city_pop": 1087,
+    "transaction_count": 838
+  },
+  "Moab": {
+    "state": "UT",
+    "zip": 84532,
+    "lat": 38.5677,
+    "long": -109.5271,
+    "city_pop": 9772,
+    "transaction_count": 1226
+  },
+  "Mobile": {
+    "state": "AL",
+    "zip": 36617,
+    "lat": 30.7145,
+    "long": -88.0918,
+    "city_pop": 270712,
+    "transaction_count": 2087
+  },
+  "Monetta": {
+    "state": "SC",
+    "zip": 29105,
+    "lat": 33.8084,
+    "long": -81.5956,
+    "city_pop": 1514,
+    "transaction_count": 398
+  },
+  "Monitor": {
+    "state": "WA",
+    "zip": 98836,
+    "lat": 47.4852,
+    "long": -120.4158,
+    "city_pop": 584,
+    "transaction_count": 430
+  },
+  "Monmouth Beach": {
+    "state": "NJ",
+    "zip": 7750,
+    "lat": 40.333,
+    "long": -73.9809,
+    "city_pop": 3279,
+    "transaction_count": 1631
+  },
+  "Montandon": {
+    "state": "PA",
+    "zip": 17850,
+    "lat": 40.9661,
+    "long": -76.8575,
+    "city_pop": 645,
+    "transaction_count": 1266
+  },
+  "Montgomery": {
+    "state": "AL",
+    "zip": 36111,
+    "lat": 32.3374,
+    "long": -86.2715,
+    "city_pop": 214703,
+    "transaction_count": 815
+  },
+  "Montrose": {
+    "state": "NY",
+    "zip": 10548,
+    "lat": 41.2496,
+    "long": -73.9446,
+    "city_pop": 3487,
+    "transaction_count": 832
+  },
+  "Moores Hill": {
+    "state": "IN",
+    "zip": 47032,
+    "lat": 39.0945,
+    "long": -85.0638,
+    "city_pop": 3289,
+    "transaction_count": 419
+  },
+  "Mooresville": {
+    "state": "NC",
+    "zip": 28117,
+    "lat": 35.584,
+    "long": -80.8685,
+    "city_pop": 69793,
+    "transaction_count": 1221
+  },
+  "Moorhead": {
+    "state": "MS",
+    "zip": 38761,
+    "lat": 33.4783,
+    "long": -90.5142,
+    "city_pop": 2870,
+    "transaction_count": 2531
+  },
+  "Moravian Falls": {
+    "state": "NC",
+    "zip": 28654,
+    "lat": 36.0788,
+    "long": -81.1781,
+    "city_pop": 3495,
+    "transaction_count": 1656
+  },
+  "Moriarty": {
+    "state": "NM",
+    "zip": 87035,
+    "lat": 34.9889,
+    "long": -106.0609,
+    "city_pop": 7268,
+    "transaction_count": 2048
+  },
+  "Moriches": {
+    "state": "NY",
+    "zip": 11955,
+    "lat": 40.8095,
+    "long": -72.8229,
+    "city_pop": 3285,
+    "transaction_count": 412
+  },
+  "Moro": {
+    "state": "IL",
+    "zip": 62067,
+    "lat": 38.9318,
+    "long": -89.9618,
+    "city_pop": 2401,
+    "transaction_count": 1251
+  },
+  "Morrisdale": {
+    "state": "PA",
+    "zip": 16858,
+    "lat": 41.0001,
+    "long": -78.2357,
+    "city_pop": 3688,
+    "transaction_count": 2473
+  },
+  "Morven": {
+    "state": "NC",
+    "zip": 28119,
+    "lat": 34.8511,
+    "long": -80.0025,
+    "city_pop": 2801,
+    "transaction_count": 8
+  },
+  "Moscow": {
+    "state": "IA",
+    "zip": 52760,
+    "lat": 41.5646,
+    "long": -91.0859,
+    "city_pop": 533,
+    "transaction_count": 413
+  },
+  "Moulton": {
+    "state": "IA",
+    "zip": 52572,
+    "lat": 40.6866,
+    "long": -92.6833,
+    "city_pop": 1132,
+    "transaction_count": 1275
+  },
+  "Mound City": {
+    "state": "MO",
+    "zip": 64470,
+    "lat": 40.1362,
+    "long": -95.2138,
+    "city_pop": 1631,
+    "transaction_count": 1675
+  },
+  "Mounds": {
+    "state": "OK",
+    "zip": 74047,
+    "lat": 35.8896,
+    "long": -96.0887,
+    "city_pop": 7163,
+    "transaction_count": 1247
+  },
+  "Moundsville": {
+    "state": "WV",
+    "zip": 26041,
+    "lat": 39.9148,
+    "long": -80.731,
+    "city_pop": 16183,
+    "transaction_count": 2049
+  },
+  "Mount Clemens": {
+    "state": "MI",
+    "zip": 48043,
+    "lat": 42.5978,
+    "long": -82.8823,
+    "city_pop": 16305,
+    "transaction_count": 822
+  },
+  "Mount Hope": {
+    "state": "AL",
+    "zip": 35651,
+    "lat": 34.4793,
+    "long": -87.4769,
+    "city_pop": 1312,
+    "transaction_count": 1684
+  },
+  "Mount Morris": {
+    "state": "NY",
+    "zip": 14510,
+    "lat": 42.6835,
+    "long": -77.8664,
+    "city_pop": 4895,
+    "transaction_count": 1285
+  },
+  "Mount Perry": {
+    "state": "OH",
+    "zip": 43760,
+    "lat": 39.8788,
+    "long": -82.188,
+    "city_pop": 1831,
+    "transaction_count": 1269
+  },
+  "Mount Saint Joseph": {
+    "state": "OH",
+    "zip": 45051,
+    "lat": 39.0965,
+    "long": -84.6431,
+    "city_pop": 177,
+    "transaction_count": 1678
+  },
+  "Mount Vernon": {
+    "state": "NY",
+    "zip": 10553,
+    "lat": 40.9086,
+    "long": -73.8221,
+    "city_pop": 67100,
+    "transaction_count": 11
+  },
+  "Mountain Center": {
+    "state": "CA",
+    "zip": 92561,
+    "lat": 33.6401,
+    "long": -116.5567,
+    "city_pop": 1661,
+    "transaction_count": 811
+  },
+  "Mountain City": {
+    "state": "TN",
+    "zip": 37683,
+    "lat": 36.4657,
+    "long": -81.814,
+    "city_pop": 13021,
+    "transaction_count": 10
+  },
+  "Mountain Park": {
+    "state": "OK",
+    "zip": 73559,
+    "lat": 34.7032,
+    "long": -98.9591,
+    "city_pop": 540,
+    "transaction_count": 1667
+  },
+  "Mulberry Grove": {
+    "state": "IL",
+    "zip": 62262,
+    "lat": 38.9311,
+    "long": -89.2463,
+    "city_pop": 1810,
+    "transaction_count": 2063
+  },
+  "Munith": {
+    "state": "MI",
+    "zip": 49259,
+    "lat": 42.3703,
+    "long": -84.2485,
+    "city_pop": 2523,
+    "transaction_count": 1200
+  },
+  "Murfreesboro": {
+    "state": "TN",
+    "zip": 37132,
+    "lat": 35.8596,
+    "long": -86.421,
+    "city_pop": 158701,
+    "transaction_count": 2086
+  },
+  "Murrayville": {
+    "state": "IL",
+    "zip": 62668,
+    "lat": 39.5723,
+    "long": -90.2379,
+    "city_pop": 1512,
+    "transaction_count": 1940
+  },
+  "Muskegon": {
+    "state": "MI",
+    "zip": 49440,
+    "lat": 43.2326,
+    "long": -86.2492,
+    "city_pop": 128715,
+    "transaction_count": 2075
+  },
+  "Nanuet": {
+    "state": "NY",
+    "zip": 10954,
+    "lat": 41.0977,
+    "long": -74.0109,
+    "city_pop": 23045,
+    "transaction_count": 10
+  },
+  "Napa": {
+    "state": "CA",
+    "zip": 94558,
+    "lat": 38.4549,
+    "long": -122.2564,
+    "city_pop": 94014,
+    "transaction_count": 1701
+  },
+  "Naples": {
+    "state": "FL",
+    "zip": 34112,
+    "lat": 26.1184,
+    "long": -81.7361,
+    "city_pop": 276002,
+    "transaction_count": 3369
+  },
+  "Nazareth": {
+    "state": "TX",
+    "zip": 79063,
+    "lat": 34.5444,
+    "long": -102.1069,
+    "city_pop": 686,
+    "transaction_count": 1644
+  },
+  "Nelson": {
+    "state": "NE",
+    "zip": 68961,
+    "lat": 40.201,
+    "long": -98.0684,
+    "city_pop": 732,
+    "transaction_count": 852
+  },
+  "New Boston": {
+    "state": "IL",
+    "zip": 61272,
+    "lat": 41.2153,
+    "long": -90.9879,
+    "city_pop": 1504,
+    "transaction_count": 1686
+  },
+  "New Ellenton": {
+    "state": "SC",
+    "zip": 29809,
+    "lat": 33.413,
+    "long": -81.69,
+    "city_pop": 2206,
+    "transaction_count": 1284
+  },
+  "New Franken": {
+    "state": "WI",
+    "zip": 54229,
+    "lat": 44.5592,
+    "long": -87.8235,
+    "city_pop": 4306,
+    "transaction_count": 383
+  },
+  "New Goshen": {
+    "state": "IN",
+    "zip": 47863,
+    "lat": 39.5803,
+    "long": -87.4616,
+    "city_pop": 205,
+    "transaction_count": 421
+  },
+  "New Holstein": {
+    "state": "WI",
+    "zip": 53061,
+    "lat": 43.9446,
+    "long": -88.0911,
+    "city_pop": 5196,
+    "transaction_count": 2060
+  },
+  "New Memphis": {
+    "state": "IL",
+    "zip": 62266,
+    "lat": 38.4857,
+    "long": -89.6816,
+    "city_pop": 254,
+    "transaction_count": 426
+  },
+  "New Waverly": {
+    "state": "TX",
+    "zip": 77358,
+    "lat": 30.5354,
+    "long": -95.4532,
+    "city_pop": 4993,
+    "transaction_count": 1233
+  },
+  "New York City": {
+    "state": "NY",
+    "zip": 10162,
+    "lat": 40.7699,
+    "long": -73.9511,
+    "city_pop": 1577385,
+    "transaction_count": 2054
+  },
+  "Newark Valley": {
+    "state": "NY",
+    "zip": 13811,
+    "lat": 42.2281,
+    "long": -76.1625,
+    "city_pop": 4354,
+    "transaction_count": 1229
+  },
+  "Newberg": {
+    "state": "OR",
+    "zip": 97132,
+    "lat": 45.3099,
+    "long": -122.9685,
+    "city_pop": 28278,
+    "transaction_count": 851
+  },
+  "Newhall": {
+    "state": "CA",
+    "zip": 91321,
+    "lat": 34.3795,
+    "long": -118.523,
+    "city_pop": 34882,
+    "transaction_count": 2427
+  },
+  "Newport": {
+    "state": "ME",
+    "zip": 4953,
+    "lat": 44.8393,
+    "long": -69.2675,
+    "city_pop": 3228,
+    "transaction_count": 422
+  },
+  "Newton": {
+    "state": "NH",
+    "zip": 3858,
+    "lat": 42.8678,
+    "long": -71.042,
+    "city_pop": 4603,
+    "transaction_count": 428
+  },
+  "Nobleboro": {
+    "state": "ME",
+    "zip": 4555,
+    "lat": 44.0943,
+    "long": -69.4828,
+    "city_pop": 1643,
+    "transaction_count": 1669
+  },
+  "Nokomis": {
+    "state": "IL",
+    "zip": 62075,
+    "lat": 39.3036,
+    "long": -89.2853,
+    "city_pop": 3458,
+    "transaction_count": 417
+  },
+  "Noonan": {
+    "state": "ND",
+    "zip": 58765,
+    "lat": 48.8856,
+    "long": -103.0098,
+    "city_pop": 248,
+    "transaction_count": 1720
+  },
+  "Norfolk": {
+    "state": "VA",
+    "zip": 23523,
+    "lat": 36.8294,
+    "long": -76.2701,
+    "city_pop": 242803,
+    "transaction_count": 7
+  },
+  "Norman": {
+    "state": "AR",
+    "zip": 71960,
+    "lat": 34.4596,
+    "long": -93.6743,
+    "city_pop": 1383,
+    "transaction_count": 2440
+  },
+  "Norman Park": {
+    "state": "GA",
+    "zip": 31771,
+    "lat": 31.2462,
+    "long": -83.6549,
+    "city_pop": 5666,
+    "transaction_count": 1231
+  },
+  "North Augusta": {
+    "state": "SC",
+    "zip": 29860,
+    "lat": 33.6028,
+    "long": -81.9748,
+    "city_pop": 46944,
+    "transaction_count": 1261
+  },
+  "North Brookfield": {
+    "state": "MA",
+    "zip": 1535,
+    "lat": 42.2665,
+    "long": -72.0821,
+    "city_pop": 4680,
+    "transaction_count": 408
+  },
+  "North East": {
+    "state": "PA",
+    "zip": 16428,
+    "lat": 42.2008,
+    "long": -79.8332,
+    "city_pop": 12478,
+    "transaction_count": 9
+  },
+  "North Haverhill": {
+    "state": "NH",
+    "zip": 3774,
+    "lat": 44.0978,
+    "long": -72.0191,
+    "city_pop": 1966,
+    "transaction_count": 429
+  },
+  "North Judson": {
+    "state": "IN",
+    "zip": 46366,
+    "lat": 41.2244,
+    "long": -86.6966,
+    "city_pop": 5791,
+    "transaction_count": 1270
+  },
+  "North Las Vegas": {
+    "state": "NV",
+    "zip": 89084,
+    "lat": 36.2815,
+    "long": -115.1482,
+    "city_pop": 214518,
+    "transaction_count": 423
+  },
+  "North Loup": {
+    "state": "NE",
+    "zip": 68859,
+    "lat": 41.4972,
+    "long": -98.7858,
+    "city_pop": 509,
+    "transaction_count": 1670
+  },
+  "North Prairie": {
+    "state": "WI",
+    "zip": 53153,
+    "lat": 42.9385,
+    "long": -88.395,
+    "city_pop": 2328,
+    "transaction_count": 1670
+  },
+  "North Tonawanda": {
+    "state": "NY",
+    "zip": 14120,
+    "lat": 43.0498,
+    "long": -78.851,
+    "city_pop": 45100,
+    "transaction_count": 857
+  },
+  "North Washington": {
+    "state": "PA",
+    "zip": 16048,
+    "lat": 41.0472,
+    "long": -79.8089,
+    "city_pop": 139,
+    "transaction_count": 1639
+  },
+  "North Wilkesboro": {
+    "state": "NC",
+    "zip": 28659,
+    "lat": 36.2017,
+    "long": -81.1286,
+    "city_pop": 21134,
+    "transaction_count": 2117
+  },
+  "Northport": {
+    "state": "NY",
+    "zip": 11768,
+    "lat": 40.9051,
+    "long": -73.3309,
+    "city_pop": 21902,
+    "transaction_count": 409
+  },
+  "Norwalk": {
+    "state": "OH",
+    "zip": 44857,
+    "lat": 41.2403,
+    "long": -82.6078,
+    "city_pop": 23805,
+    "transaction_count": 2512
+  },
+  "Norwich": {
+    "state": "OH",
+    "zip": 43767,
+    "lat": 39.9934,
+    "long": -81.8024,
+    "city_pop": 1443,
+    "transaction_count": 826
+  },
+  "Notrees": {
+    "state": "TX",
+    "zip": 79759,
+    "lat": 31.8599,
+    "long": -102.7413,
+    "city_pop": 23,
+    "transaction_count": 1669
+  },
+  "O Brien": {
+    "state": "TX",
+    "zip": 79539,
+    "lat": 33.3749,
+    "long": -99.8473,
+    "city_pop": 178,
+    "transaction_count": 1654
+  },
+  "Oak Hill": {
+    "state": "NY",
+    "zip": 12460,
+    "lat": 42.4069,
+    "long": -74.1528,
+    "city_pop": 277,
+    "transaction_count": 1236
+  },
+  "Oakdale": {
+    "state": "NY",
+    "zip": 11769,
+    "lat": 40.7382,
+    "long": -73.1297,
+    "city_pop": 9506,
+    "transaction_count": 430
+  },
+  "Oakford": {
+    "state": "IL",
+    "zip": 62673,
+    "lat": 40.0994,
+    "long": -89.9601,
+    "city_pop": 530,
+    "transaction_count": 428
+  },
+  "Oakland": {
+    "state": "CA",
+    "zip": 94619,
+    "lat": 37.7878,
+    "long": -122.1884,
+    "city_pop": 381459,
+    "transaction_count": 2145
+  },
+  "Oaks": {
+    "state": "PA",
+    "zip": 19456,
+    "lat": 40.1334,
+    "long": -75.4536,
+    "city_pop": 737,
+    "transaction_count": 1258
+  },
+  "Oakton": {
+    "state": "VA",
+    "zip": 22124,
+    "lat": 38.8852,
+    "long": -77.3233,
+    "city_pop": 17558,
+    "transaction_count": 9
+  },
+  "Oconto Falls": {
+    "state": "WI",
+    "zip": 54154,
+    "lat": 44.8755,
+    "long": -88.1555,
+    "city_pop": 5548,
+    "transaction_count": 1678
+  },
+  "Odessa": {
+    "state": "MO",
+    "zip": 64076,
+    "lat": 38.9829,
+    "long": -93.9757,
+    "city_pop": 9512,
+    "transaction_count": 427
+  },
+  "Ogdensburg": {
+    "state": "NJ",
+    "zip": 7439,
+    "lat": 41.0767,
+    "long": -74.5982,
+    "city_pop": 2456,
+    "transaction_count": 1670
+  },
+  "Oklahoma City": {
+    "state": "OK",
+    "zip": 73134,
+    "lat": 35.6174,
+    "long": -97.5583,
+    "city_pop": 640470,
+    "transaction_count": 831
+  },
+  "Old Hickory": {
+    "state": "TN",
+    "zip": 37138,
+    "lat": 36.2416,
+    "long": -86.6117,
+    "city_pop": 22191,
+    "transaction_count": 438
+  },
+  "Ollie": {
+    "state": "IA",
+    "zip": 52576,
+    "lat": 41.2001,
+    "long": -92.1354,
+    "city_pop": 568,
+    "transaction_count": 1229
+  },
+  "Olmsted": {
+    "state": "IL",
+    "zip": 62970,
+    "lat": 37.1935,
+    "long": -89.0933,
+    "city_pop": 639,
+    "transaction_count": 835
+  },
+  "Omaha": {
+    "state": "NE",
+    "zip": 68117,
+    "lat": 41.2064,
+    "long": -95.9953,
+    "city_pop": 518429,
+    "transaction_count": 413
+  },
+  "Oolitic": {
+    "state": "IN",
+    "zip": 47451,
+    "lat": 38.8938,
+    "long": -86.5246,
+    "city_pop": 1228,
+    "transaction_count": 2034
+  },
+  "Oran": {
+    "state": "IA",
+    "zip": 50664,
+    "lat": 42.7012,
+    "long": -92.0762,
+    "city_pop": 53,
+    "transaction_count": 833
+  },
+  "Orange Park": {
+    "state": "FL",
+    "zip": 32065,
+    "lat": 30.1382,
+    "long": -81.7742,
+    "city_pop": 98816,
+    "transaction_count": 10
+  },
+  "Orangeburg": {
+    "state": "NY",
+    "zip": 10962,
+    "lat": 41.0442,
+    "long": -73.9609,
+    "city_pop": 5950,
+    "transaction_count": 1247
+  },
+  "Orient": {
+    "state": "WA",
+    "zip": 99160,
+    "lat": 48.8878,
+    "long": -118.2105,
+    "city_pop": 149,
+    "transaction_count": 2914
+  },
+  "Oriskany Falls": {
+    "state": "NY",
+    "zip": 13425,
+    "lat": 42.9576,
+    "long": -75.4838,
+    "city_pop": 1970,
+    "transaction_count": 819
+  },
+  "Orr": {
+    "state": "MN",
+    "zip": 55771,
+    "lat": 48.1439,
+    "long": -92.8561,
+    "city_pop": 1680,
+    "transaction_count": 822
+  },
+  "Owensville": {
+    "state": "MO",
+    "zip": 65066,
+    "lat": 38.3511,
+    "long": -91.4867,
+    "city_pop": 6703,
+    "transaction_count": 402
+  },
+  "Oxford": {
+    "state": "MI",
+    "zip": 48371,
+    "lat": 42.8223,
+    "long": -83.2829,
+    "city_pop": 24840,
+    "transaction_count": 1272
+  },
+  "Ozawkie": {
+    "state": "KS",
+    "zip": 66070,
+    "lat": 39.2136,
+    "long": -95.4404,
+    "city_pop": 2661,
+    "transaction_count": 1250
+  },
+  "Paauilo": {
+    "state": "HI",
+    "zip": 96776,
+    "lat": 20.0271,
+    "long": -155.3697,
+    "city_pop": 1490,
+    "transaction_count": 1201
+  },
+  "Paint Rock": {
+    "state": "AL",
+    "zip": 35764,
+    "lat": 34.7031,
+    "long": -86.3068,
+    "city_pop": 653,
+    "transaction_count": 1239
+  },
+  "Palermo": {
+    "state": "ND",
+    "zip": 58769,
+    "lat": 48.3396,
+    "long": -102.24,
+    "city_pop": 229,
+    "transaction_count": 1266
+  },
+  "Palmdale": {
+    "state": "CA",
+    "zip": 93552,
+    "lat": 34.5715,
+    "long": -118.0231,
+    "city_pop": 171170,
+    "transaction_count": 394
+  },
+  "Palmyra": {
+    "state": "NY",
+    "zip": 14522,
+    "lat": 43.0622,
+    "long": -77.2218,
+    "city_pop": 9565,
+    "transaction_count": 390
+  },
+  "Paradise Valley": {
+    "state": "AZ",
+    "zip": 85253,
+    "lat": 33.5494,
+    "long": -111.9565,
+    "city_pop": 17047,
+    "transaction_count": 837
+  },
+  "Paris": {
+    "state": "MS",
+    "zip": 38949,
+    "lat": 34.1992,
+    "long": -89.382,
+    "city_pop": 297,
+    "transaction_count": 424
+  },
+  "Parker": {
+    "state": "CO",
+    "zip": 80138,
+    "lat": 39.5102,
+    "long": -104.7216,
+    "city_pop": 84861,
+    "transaction_count": 415
+  },
+  "Parker Dam": {
+    "state": "CA",
+    "zip": 92267,
+    "lat": 34.298,
+    "long": -114.156,
+    "city_pop": 126,
+    "transaction_count": 400
+  },
+  "Parkers Lake": {
+    "state": "KY",
+    "zip": 42634,
+    "lat": 36.8347,
+    "long": -84.4436,
+    "city_pop": 1565,
+    "transaction_count": 823
+  },
+  "Parks": {
+    "state": "AZ",
+    "zip": 86018,
+    "lat": 35.2563,
+    "long": -111.95,
+    "city_pop": 759,
+    "transaction_count": 841
+  },
+  "Parsonsfield": {
+    "state": "ME",
+    "zip": 4047,
+    "lat": 43.745,
+    "long": -70.9092,
+    "city_pop": 1892,
+    "transaction_count": 1684
+  },
+  "Paulding": {
+    "state": "OH",
+    "zip": 45879,
+    "lat": 41.141,
+    "long": -84.5722,
+    "city_pop": 6284,
+    "transaction_count": 1233
+  },
+  "Paxton": {
+    "state": "MA",
+    "zip": 1612,
+    "lat": 42.3066,
+    "long": -71.9202,
+    "city_pop": 4845,
+    "transaction_count": 439
+  },
+  "Payson": {
+    "state": "IL",
+    "zip": 62360,
+    "lat": 39.8153,
+    "long": -91.2627,
+    "city_pop": 1656,
+    "transaction_count": 1206
+  },
+  "Pea Ridge": {
+    "state": "AR",
+    "zip": 72751,
+    "lat": 36.4539,
+    "long": -94.118,
+    "city_pop": 6434,
+    "transaction_count": 407
+  },
+  "Pearlington": {
+    "state": "MS",
+    "zip": 39572,
+    "lat": 30.2508,
+    "long": -89.6011,
+    "city_pop": 1414,
+    "transaction_count": 423
+  },
+  "Pecos": {
+    "state": "TX",
+    "zip": 79772,
+    "lat": 31.4467,
+    "long": -103.5791,
+    "city_pop": 12747,
+    "transaction_count": 428
+  },
+  "Pelham": {
+    "state": "NC",
+    "zip": 27311,
+    "lat": 36.4899,
+    "long": -79.4736,
+    "city_pop": 3402,
+    "transaction_count": 856
+  },
+  "Pembroke": {
+    "state": "NC",
+    "zip": 28372,
+    "lat": 34.6902,
+    "long": -79.1834,
+    "city_pop": 14783,
+    "transaction_count": 837
+  },
+  "Pembroke Township": {
+    "state": "IL",
+    "zip": 60958,
+    "lat": 41.0646,
+    "long": -87.5917,
+    "city_pop": 2135,
+    "transaction_count": 2309
+  },
+  "Pewee Valley": {
+    "state": "KY",
+    "zip": 40056,
+    "lat": 38.3039,
+    "long": -85.4834,
+    "city_pop": 3263,
+    "transaction_count": 845
+  },
+  "Phelps": {
+    "state": "NY",
+    "zip": 14532,
+    "lat": 42.9582,
+    "long": -77.0473,
+    "city_pop": 4431,
+    "transaction_count": 11
+  },
+  "Phenix City": {
+    "state": "AL",
+    "zip": 36869,
+    "lat": 32.4204,
+    "long": -85.0796,
+    "city_pop": 59744,
+    "transaction_count": 1624
+  },
+  "Phil Campbell": {
+    "state": "AL",
+    "zip": 35581,
+    "lat": 34.347,
+    "long": -87.7154,
+    "city_pop": 5778,
+    "transaction_count": 825
+  },
+  "Philadelphia": {
+    "state": "PA",
+    "zip": 19149,
+    "lat": 40.0369,
+    "long": -75.0664,
+    "city_pop": 1526206,
+    "transaction_count": 2895
+  },
+  "Phoenix": {
+    "state": "AZ",
+    "zip": 85020,
+    "lat": 33.5623,
+    "long": -112.0559,
+    "city_pop": 1312922,
+    "transaction_count": 4119
+  },
+  "Pikesville": {
+    "state": "MD",
+    "zip": 21208,
+    "lat": 39.3764,
+    "long": -76.729,
+    "city_pop": 33917,
+    "transaction_count": 845
+  },
+  "Pittsburgh": {
+    "state": "PA",
+    "zip": 15217,
+    "lat": 40.4308,
+    "long": -79.9205,
+    "city_pop": 687276,
+    "transaction_count": 1665
+  },
+  "Plainfield": {
+    "state": "NJ",
+    "zip": 7060,
+    "lat": 40.6152,
+    "long": -74.415,
+    "city_pop": 71485,
+    "transaction_count": 2513
+  },
+  "Plantersville": {
+    "state": "AL",
+    "zip": 36758,
+    "lat": 32.6176,
+    "long": -86.9475,
+    "city_pop": 1412,
+    "transaction_count": 1720
+  },
+  "Pleasant Hill": {
+    "state": "MO",
+    "zip": 64080,
+    "lat": 38.7859,
+    "long": -94.244,
+    "city_pop": 12866,
+    "transaction_count": 8
+  },
+  "Plymouth": {
+    "state": "CT",
+    "zip": 6782,
+    "lat": 41.6611,
+    "long": -73.0449,
+    "city_pop": 2376,
+    "transaction_count": 1645
+  },
+  "Pointe Aux Pins": {
+    "state": "MI",
+    "zip": 49775,
+    "lat": 45.7549,
+    "long": -84.447,
+    "city_pop": 95,
+    "transaction_count": 1643
+  },
+  "Pomona": {
+    "state": "NY",
+    "zip": 10970,
+    "lat": 41.1901,
+    "long": -74.0436,
+    "city_pop": 9993,
+    "transaction_count": 850
+  },
+  "Port Charlotte": {
+    "state": "FL",
+    "zip": 33981,
+    "lat": 26.9379,
+    "long": -82.2388,
+    "city_pop": 79008,
+    "transaction_count": 842
+  },
+  "Port Costa": {
+    "state": "CA",
+    "zip": 94569,
+    "lat": 38.046,
+    "long": -122.1866,
+    "city_pop": 198,
+    "transaction_count": 1642
+  },
+  "Port Ewen": {
+    "state": "NY",
+    "zip": 12466,
+    "lat": 41.8948,
+    "long": -73.9767,
+    "city_pop": 2471,
+    "transaction_count": 1203
+  },
+  "Port Gibson": {
+    "state": "NY",
+    "zip": 14537,
+    "lat": 43.033,
+    "long": -77.1575,
+    "city_pop": 207,
+    "transaction_count": 1226
+  },
+  "Port Richey": {
+    "state": "FL",
+    "zip": 34668,
+    "lat": 28.3011,
+    "long": -82.6927,
+    "city_pop": 42619,
+    "transaction_count": 869
+  },
+  "Port Saint Lucie": {
+    "state": "FL",
+    "zip": 34953,
+    "lat": 27.2625,
+    "long": -80.3793,
+    "city_pop": 181438,
+    "transaction_count": 425
+  },
+  "Portland": {
+    "state": "OR",
+    "zip": 97210,
+    "lat": 45.5303,
+    "long": -122.7033,
+    "city_pop": 841711,
+    "transaction_count": 849
+  },
+  "Powell": {
+    "state": "TN",
+    "zip": 37849,
+    "lat": 36.0435,
+    "long": -84.04,
+    "city_pop": 25459,
+    "transaction_count": 1209
+  },
+  "Powell Butte": {
+    "state": "OR",
+    "zip": 97753,
+    "lat": 44.2415,
+    "long": -121.0113,
+    "city_pop": 2016,
+    "transaction_count": 429
+  },
+  "Prairie Creek": {
+    "state": "IN",
+    "zip": 47869,
+    "lat": 39.4336,
+    "long": -87.4101,
+    "city_pop": 137,
+    "transaction_count": 419
+  },
+  "Prairie Hill": {
+    "state": "TX",
+    "zip": 76678,
+    "lat": 31.6591,
+    "long": -96.8094,
+    "city_pop": 263,
+    "transaction_count": 1651
+  },
+  "Premier": {
+    "state": "WV",
+    "zip": 24878,
+    "lat": 37.3752,
+    "long": -81.6539,
+    "city_pop": 337,
+    "transaction_count": 421
+  },
+  "Preston": {
+    "state": "CT",
+    "zip": 6365,
+    "lat": 41.5224,
+    "long": -71.9934,
+    "city_pop": 4720,
+    "transaction_count": 427
+  },
+  "Princeton": {
+    "state": "IA",
+    "zip": 52768,
+    "lat": 41.6858,
+    "long": -90.3706,
+    "city_pop": 1426,
+    "transaction_count": 1223
+  },
+  "Prosperity": {
+    "state": "SC",
+    "zip": 29127,
+    "lat": 34.1832,
+    "long": -81.5324,
+    "city_pop": 8333,
+    "transaction_count": 798
+  },
+  "Providence": {
+    "state": "RI",
+    "zip": 2908,
+    "lat": 41.8383,
+    "long": -71.4377,
+    "city_pop": 203571,
+    "transaction_count": 446
+  },
+  "Pueblo": {
+    "state": "CO",
+    "zip": 81005,
+    "lat": 38.2352,
+    "long": -104.66,
+    "city_pop": 151815,
+    "transaction_count": 843
+  },
+  "Purmela": {
+    "state": "TX",
+    "zip": 76566,
+    "lat": 31.4841,
+    "long": -97.9903,
+    "city_pop": 258,
+    "transaction_count": 1261
+  },
+  "Putnam": {
+    "state": "IL",
+    "zip": 61560,
+    "lat": 41.1949,
+    "long": -89.4409,
+    "city_pop": 754,
+    "transaction_count": 409
+  },
+  "Quanah": {
+    "state": "TX",
+    "zip": 79252,
+    "lat": 34.2956,
+    "long": -99.7494,
+    "city_pop": 3202,
+    "transaction_count": 1243
+  },
+  "Queenstown": {
+    "state": "MD",
+    "zip": 21658,
+    "lat": 39.0026,
+    "long": -76.1424,
+    "city_pop": 3862,
+    "transaction_count": 851
+  },
+  "Ragland": {
+    "state": "AL",
+    "zip": 35131,
+    "lat": 33.7367,
+    "long": -86.1619,
+    "city_pop": 4159,
+    "transaction_count": 409
+  },
+  "Randolph": {
+    "state": "OH",
+    "zip": 44265,
+    "lat": 41.0109,
+    "long": -81.2977,
+    "city_pop": 51,
+    "transaction_count": 1247
+  },
+  "Ranier": {
+    "state": "MN",
+    "zip": 56668,
+    "lat": 48.6031,
+    "long": -93.2977,
+    "city_pop": 136,
+    "transaction_count": 2361
+  },
+  "Ratcliff": {
+    "state": "TX",
+    "zip": 75858,
+    "lat": 31.3833,
+    "long": -95.0619,
+    "city_pop": 43,
+    "transaction_count": 1654
+  },
+  "Ravenna": {
+    "state": "NE",
+    "zip": 68869,
+    "lat": 41.0233,
+    "long": -98.9041,
+    "city_pop": 2202,
+    "transaction_count": 430
+  },
+  "Red Cliff": {
+    "state": "CO",
+    "zip": 81649,
+    "lat": 39.4584,
+    "long": -106.3851,
+    "city_pop": 277,
+    "transaction_count": 416
+  },
+  "Red River": {
+    "state": "NM",
+    "zip": 87558,
+    "lat": 36.6659,
+    "long": -105.4694,
+    "city_pop": 606,
+    "transaction_count": 2073
+  },
+  "Redford": {
+    "state": "MO",
+    "zip": 63665,
+    "lat": 37.3272,
+    "long": -91.0243,
+    "city_pop": 241,
+    "transaction_count": 2052
+  },
+  "Remer": {
+    "state": "MN",
+    "zip": 56672,
+    "lat": 47.0874,
+    "long": -93.9196,
+    "city_pop": 2097,
+    "transaction_count": 436
+  },
+  "Reno": {
+    "state": "NV",
+    "zip": 89512,
+    "lat": 39.5483,
+    "long": -119.7957,
+    "city_pop": 276896,
+    "transaction_count": 2445
+  },
+  "Republic": {
+    "state": "MI",
+    "zip": 49879,
+    "lat": 46.368,
+    "long": -87.9938,
+    "city_pop": 1038,
+    "transaction_count": 411
+  },
+  "Reynolds": {
+    "state": "ND",
+    "zip": 58275,
+    "lat": 47.7068,
+    "long": -97.2092,
+    "city_pop": 733,
+    "transaction_count": 813
+  },
+  "Rhame": {
+    "state": "ND",
+    "zip": 58651,
+    "lat": 46.1664,
+    "long": -103.7079,
+    "city_pop": 475,
+    "transaction_count": 1218
+  },
+  "Richland": {
+    "state": "NJ",
+    "zip": 8350,
+    "lat": 39.485,
+    "long": -74.8776,
+    "city_pop": 825,
+    "transaction_count": 403
+  },
+  "Ridge Spring": {
+    "state": "SC",
+    "zip": 29129,
+    "lat": 33.8714,
+    "long": -81.6559,
+    "city_pop": 3164,
+    "transaction_count": 10
+  },
+  "Ridgeland": {
+    "state": "MS",
+    "zip": 39157,
+    "lat": 32.4122,
+    "long": -90.1207,
+    "city_pop": 24645,
+    "transaction_count": 848
+  },
+  "Ringwood": {
+    "state": "IL",
+    "zip": 60072,
+    "lat": 42.4048,
+    "long": -88.3054,
+    "city_pop": 928,
+    "transaction_count": 813
+  },
+  "River": {
+    "state": "KY",
+    "zip": 41254,
+    "lat": 37.8795,
+    "long": -82.7251,
+    "city_pop": 571,
+    "transaction_count": 1209
+  },
+  "Riverton": {
+    "state": "WY",
+    "zip": 82501,
+    "lat": 43.0351,
+    "long": -108.2024,
+    "city_pop": 19408,
+    "transaction_count": 1615
+  },
+  "Riverview": {
+    "state": "MI",
+    "zip": 48193,
+    "lat": 42.1782,
+    "long": -83.2461,
+    "city_pop": 15623,
+    "transaction_count": 390
+  },
+  "Rochester": {
+    "state": "KY",
+    "zip": 42273,
+    "lat": 37.2048,
+    "long": -86.8592,
+    "city_pop": 443,
+    "transaction_count": 383
+  },
+  "Rock Glen": {
+    "state": "PA",
+    "zip": 18246,
+    "lat": 40.954,
+    "long": -76.1747,
+    "city_pop": 143,
+    "transaction_count": 416
+  },
+  "Rock Springs": {
+    "state": "WY",
+    "zip": 82901,
+    "lat": 41.606,
+    "long": -109.23,
+    "city_pop": 27971,
+    "transaction_count": 2093
+  },
+  "Rock Tavern": {
+    "state": "NY",
+    "zip": 12575,
+    "lat": 41.4575,
+    "long": -74.1659,
+    "city_pop": 2258,
+    "transaction_count": 1655
+  },
+  "Rockwell": {
+    "state": "IA",
+    "zip": 50469,
+    "lat": 43.0032,
+    "long": -93.2167,
+    "city_pop": 1574,
+    "transaction_count": 408
+  },
+  "Rockwood": {
+    "state": "PA",
+    "zip": 15557,
+    "lat": 39.9373,
+    "long": -79.1865,
+    "city_pop": 3684,
+    "transaction_count": 822
+  },
+  "Rocky Mount": {
+    "state": "MO",
+    "zip": 65072,
+    "lat": 38.2911,
+    "long": -92.7059,
+    "city_pop": 1847,
+    "transaction_count": 2465
+  },
+  "Roland": {
+    "state": "AR",
+    "zip": 72135,
+    "lat": 34.8829,
+    "long": -92.5192,
+    "city_pop": 2623,
+    "transaction_count": 11
+  },
+  "Roma": {
+    "state": "TX",
+    "zip": 78584,
+    "lat": 26.4215,
+    "long": -99.0025,
+    "city_pop": 18128,
+    "transaction_count": 2447
+  },
+  "Romulus": {
+    "state": "MI",
+    "zip": 48174,
+    "lat": 42.2203,
+    "long": -83.3583,
+    "city_pop": 31515,
+    "transaction_count": 2056
+  },
+  "Ronceverte": {
+    "state": "WV",
+    "zip": 24970,
+    "lat": 37.7418,
+    "long": -80.4626,
+    "city_pop": 4575,
+    "transaction_count": 2106
+  },
+  "Roosevelt": {
+    "state": "OK",
+    "zip": 73564,
+    "lat": 34.847,
+    "long": -98.9836,
+    "city_pop": 551,
+    "transaction_count": 1608
+  },
+  "Roseland": {
+    "state": "NE",
+    "zip": 68973,
+    "lat": 40.4591,
+    "long": -98.5551,
+    "city_pop": 463,
+    "transaction_count": 828
+  },
+  "Rosewood": {
+    "state": "OH",
+    "zip": 43070,
+    "lat": 40.2158,
+    "long": -83.9579,
+    "city_pop": 133,
+    "transaction_count": 403
+  },
+  "Rossville": {
+    "state": "IL",
+    "zip": 60963,
+    "lat": 40.3625,
+    "long": -87.6692,
+    "city_pop": 1807,
+    "transaction_count": 412
+  },
+  "Ruckersville": {
+    "state": "VA",
+    "zip": 22968,
+    "lat": 38.2586,
+    "long": -78.4074,
+    "city_pop": 9815,
+    "transaction_count": 2119
+  },
+  "Ruidoso": {
+    "state": "NM",
+    "zip": 88355,
+    "lat": 33.3305,
+    "long": -105.6933,
+    "city_pop": 8874,
+    "transaction_count": 1249
+  },
+  "Rule": {
+    "state": "TX",
+    "zip": 79548,
+    "lat": 33.0771,
+    "long": -99.959,
+    "city_pop": 932,
+    "transaction_count": 1238
+  },
+  "Rumely": {
+    "state": "MI",
+    "zip": 49826,
+    "lat": 46.3481,
+    "long": -87.0436,
+    "city_pop": 137,
+    "transaction_count": 849
+  },
+  "Ruth": {
+    "state": "NV",
+    "zip": 89319,
+    "lat": 39.3426,
+    "long": -114.8859,
+    "city_pop": 450,
+    "transaction_count": 1250
+  },
+  "Sachse": {
+    "state": "TX",
+    "zip": 75048,
+    "lat": 32.9643,
+    "long": -96.6012,
+    "city_pop": 20328,
+    "transaction_count": 2086
+  },
+  "Sacramento": {
+    "state": "CA",
+    "zip": 95827,
+    "lat": 38.5662,
+    "long": -121.3286,
+    "city_pop": 757530,
+    "transaction_count": 1675
+  },
+  "Saint Amant": {
+    "state": "LA",
+    "zip": 70774,
+    "lat": 30.2385,
+    "long": -90.8435,
+    "city_pop": 10076,
+    "transaction_count": 2038
+  },
+  "Saint Bonaventure": {
+    "state": "NY",
+    "zip": 14778,
+    "lat": 42.2701,
+    "long": -78.6847,
+    "city_pop": 1453,
+    "transaction_count": 1649
+  },
+  "Saint Francis": {
+    "state": "KY",
+    "zip": 40062,
+    "lat": 37.6047,
+    "long": -85.4251,
+    "city_pop": 301,
+    "transaction_count": 429
+  },
+  "Saint James City": {
+    "state": "FL",
+    "zip": 33956,
+    "lat": 26.529,
+    "long": -82.0916,
+    "city_pop": 3776,
+    "transaction_count": 1279
+  },
+  "Saint Louis": {
+    "state": "MO",
+    "zip": 63131,
+    "lat": 38.6171,
+    "long": -90.4504,
+    "city_pop": 927396,
+    "transaction_count": 843
+  },
+  "Saint Paul": {
+    "state": "MN",
+    "zip": 55128,
+    "lat": 44.9913,
+    "long": -92.9487,
+    "city_pop": 753116,
+    "transaction_count": 1674
+  },
+  "Saint Petersburg": {
+    "state": "FL",
+    "zip": 33710,
+    "lat": 27.7898,
+    "long": -82.7243,
+    "city_pop": 341043,
+    "transaction_count": 1657
+  },
+  "San Angelo": {
+    "state": "TX",
+    "zip": 76905,
+    "lat": 31.4647,
+    "long": -100.39,
+    "city_pop": 103927,
+    "transaction_count": 428
+  },
+  "San Antonio": {
+    "state": "TX",
+    "zip": 78214,
+    "lat": 29.3641,
+    "long": -98.4924,
+    "city_pop": 1595797,
+    "transaction_count": 4152
+  },
+  "San Diego": {
+    "state": "CA",
+    "zip": 92128,
+    "lat": 33.0067,
+    "long": -117.069,
+    "city_pop": 1241364,
+    "transaction_count": 2146
+  },
+  "San Jose": {
+    "state": "CA",
+    "zip": 95148,
+    "lat": 37.3304,
+    "long": -121.7913,
+    "city_pop": 973849,
+    "transaction_count": 1637
+  },
+  "Santa Monica": {
+    "state": "CA",
+    "zip": 90403,
+    "lat": 34.0287,
+    "long": -118.4924,
+    "city_pop": 92043,
+    "transaction_count": 1251
+  },
+  "Sardis": {
+    "state": "AL",
+    "zip": 36775,
+    "lat": 32.2844,
+    "long": -86.992,
+    "city_pop": 800,
+    "transaction_count": 412
+  },
+  "Sauk Rapids": {
+    "state": "MN",
+    "zip": 56379,
+    "lat": 45.604,
+    "long": -94.1591,
+    "city_pop": 16163,
+    "transaction_count": 862
+  },
+  "Saxon": {
+    "state": "WI",
+    "zip": 54559,
+    "lat": 46.4959,
+    "long": -90.4383,
+    "city_pop": 795,
+    "transaction_count": 1676
+  },
+  "Scarborough": {
+    "state": "ME",
+    "zip": 4074,
+    "lat": 43.5835,
+    "long": -70.3457,
+    "city_pop": 18760,
+    "transaction_count": 1239
+  },
+  "Schaefferstown": {
+    "state": "PA",
+    "zip": 17088,
+    "lat": 40.3087,
+    "long": -76.2963,
+    "city_pop": 823,
+    "transaction_count": 1650
+  },
+  "Schaumburg": {
+    "state": "IL",
+    "zip": 60193,
+    "lat": 42.0144,
+    "long": -88.0935,
+    "city_pop": 92294,
+    "transaction_count": 821
+  },
+  "Scotia": {
+    "state": "SC",
+    "zip": 29939,
+    "lat": 32.6786,
+    "long": -81.2455,
+    "city_pop": 302,
+    "transaction_count": 1671
+  },
+  "Scotland": {
+    "state": "MD",
+    "zip": 20687,
+    "lat": 38.0828,
+    "long": -76.3477,
+    "city_pop": 313,
+    "transaction_count": 2101
+  },
+  "Scotts Mills": {
+    "state": "OR",
+    "zip": 97375,
+    "lat": 44.9897,
+    "long": -122.6187,
+    "city_pop": 1252,
+    "transaction_count": 840
+  },
+  "Sea Island": {
+    "state": "GA",
+    "zip": 31561,
+    "lat": 31.1989,
+    "long": -81.3322,
+    "city_pop": 298,
+    "transaction_count": 409
+  },
+  "Seattle": {
+    "state": "WA",
+    "zip": 98105,
+    "lat": 47.6633,
+    "long": -122.3022,
+    "city_pop": 837792,
+    "transaction_count": 10
+  },
+  "Sebring": {
+    "state": "FL",
+    "zip": 33872,
+    "lat": 27.4703,
+    "long": -81.4872,
+    "city_pop": 50835,
+    "transaction_count": 2483
+  },
+  "Seneca": {
+    "state": "WI",
+    "zip": 54654,
+    "lat": 43.2064,
+    "long": -90.9405,
+    "city_pop": 153,
+    "transaction_count": 1261
+  },
+  "Shedd": {
+    "state": "OR",
+    "zip": 97377,
+    "lat": 44.453,
+    "long": -123.1065,
+    "city_pop": 917,
+    "transaction_count": 405
+  },
+  "Sheffield": {
+    "state": "MA",
+    "zip": 1257,
+    "lat": 42.1001,
+    "long": -73.3611,
+    "city_pop": 2121,
+    "transaction_count": 1625
+  },
+  "Shelter Island": {
+    "state": "NY",
+    "zip": 11964,
+    "lat": 41.064,
+    "long": -72.3366,
+    "city_pop": 1858,
+    "transaction_count": 1257
+  },
+  "Shenandoah Junction": {
+    "state": "WV",
+    "zip": 25442,
+    "lat": 39.3716,
+    "long": -77.8229,
+    "city_pop": 1925,
+    "transaction_count": 1634
+  },
+  "Sherman": {
+    "state": "TX",
+    "zip": 75092,
+    "lat": 33.6372,
+    "long": -96.6184,
+    "city_pop": 46563,
+    "transaction_count": 2158
+  },
+  "Shields": {
+    "state": "ND",
+    "zip": 58569,
+    "lat": 46.1838,
+    "long": -101.2589,
+    "city_pop": 77,
+    "transaction_count": 2495
+  },
+  "Shippingport": {
+    "state": "PA",
+    "zip": 15077,
+    "lat": 40.6025,
+    "long": -80.3863,
+    "city_pop": 198,
+    "transaction_count": 1664
+  },
+  "Shrewsbury": {
+    "state": "MA",
+    "zip": 1545,
+    "lat": 42.2848,
+    "long": -71.7205,
+    "city_pop": 35299,
+    "transaction_count": 824
+  },
+  "Sixes": {
+    "state": "OR",
+    "zip": 97476,
+    "lat": 42.825,
+    "long": -124.4409,
+    "city_pop": 217,
+    "transaction_count": 872
+  },
+  "Skytop": {
+    "state": "PA",
+    "zip": 18357,
+    "lat": 41.2336,
+    "long": -75.2389,
+    "city_pop": 104,
+    "transaction_count": 431
+  },
+  "Slayden": {
+    "state": "TN",
+    "zip": 37165,
+    "lat": 36.2835,
+    "long": -87.4581,
+    "city_pop": 70,
+    "transaction_count": 819
+  },
+  "Smackover": {
+    "state": "AR",
+    "zip": 71762,
+    "lat": 33.3398,
+    "long": -92.7442,
+    "city_pop": 2501,
+    "transaction_count": 1245
+  },
+  "Smith River": {
+    "state": "CA",
+    "zip": 95567,
+    "lat": 41.9404,
+    "long": -124.1587,
+    "city_pop": 1930,
+    "transaction_count": 807
+  },
+  "Smithfield": {
+    "state": "IL",
+    "zip": 61477,
+    "lat": 40.4855,
+    "long": -90.2856,
+    "city_pop": 631,
+    "transaction_count": 434
+  },
+  "Smiths Grove": {
+    "state": "KY",
+    "zip": 42171,
+    "lat": 37.0581,
+    "long": -86.1938,
+    "city_pop": 6841,
+    "transaction_count": 2062
+  },
+  "Smock": {
+    "state": "PA",
+    "zip": 15480,
+    "lat": 39.9961,
+    "long": -79.7678,
+    "city_pop": 1946,
+    "transaction_count": 837
+  },
+  "Sontag": {
+    "state": "MS",
+    "zip": 39665,
+    "lat": 31.6453,
+    "long": -90.1801,
+    "city_pop": 1196,
+    "transaction_count": 1701
+  },
+  "South Hero": {
+    "state": "VT",
+    "zip": 5486,
+    "lat": 44.64,
+    "long": -73.3113,
+    "city_pop": 1654,
+    "transaction_count": 820
+  },
+  "South Londonderry": {
+    "state": "VT",
+    "zip": 5155,
+    "lat": 43.1699,
+    "long": -72.8515,
+    "city_pop": 828,
+    "transaction_count": 823
+  },
+  "South Richmond Hill": {
+    "state": "NY",
+    "zip": 11419,
+    "lat": 40.6868,
+    "long": -73.823,
+    "city_pop": 47211,
+    "transaction_count": 419
+  },
+  "Southfield": {
+    "state": "MI",
+    "zip": 48034,
+    "lat": 42.4969,
+    "long": -83.2911,
+    "city_pop": 75830,
+    "transaction_count": 1684
+  },
+  "Spearsville": {
+    "state": "LA",
+    "zip": 71277,
+    "lat": 32.955,
+    "long": -92.587,
+    "city_pop": 1758,
+    "transaction_count": 864
+  },
+  "Spencer": {
+    "state": "SD",
+    "zip": 57374,
+    "lat": 43.7557,
+    "long": -97.5936,
+    "city_pop": 343,
+    "transaction_count": 2063
+  },
+  "Spirit Lake": {
+    "state": "ID",
+    "zip": 83869,
+    "lat": 47.9657,
+    "long": -116.868,
+    "city_pop": 4161,
+    "transaction_count": 398
+  },
+  "Sprague": {
+    "state": "NE",
+    "zip": 68438,
+    "lat": 40.6267,
+    "long": -96.7456,
+    "city_pop": 142,
+    "transaction_count": 426
+  },
+  "Spring": {
+    "state": "TX",
+    "zip": 77379,
+    "lat": 30.0377,
+    "long": -95.5326,
+    "city_pop": 316665,
+    "transaction_count": 433
+  },
+  "Spring Church": {
+    "state": "PA",
+    "zip": 15686,
+    "lat": 40.6153,
+    "long": -79.4545,
+    "city_pop": 972,
+    "transaction_count": 1162
+  },
+  "Springfield": {
+    "state": "GA",
+    "zip": 31329,
+    "lat": 32.3697,
+    "long": -81.3618,
+    "city_pop": 9034,
+    "transaction_count": 2058
+  },
+  "Springfield Gardens": {
+    "state": "NY",
+    "zip": 11413,
+    "lat": 40.6645,
+    "long": -73.7559,
+    "city_pop": 38912,
+    "transaction_count": 435
+  },
+  "Stanchfield": {
+    "state": "MN",
+    "zip": 55080,
+    "lat": 45.6675,
+    "long": -93.2433,
+    "city_pop": 2607,
+    "transaction_count": 2102
+  },
+  "Stayton": {
+    "state": "OR",
+    "zip": 97383,
+    "lat": 44.8021,
+    "long": -122.7624,
+    "city_pop": 9587,
+    "transaction_count": 851
+  },
+  "Stephensport": {
+    "state": "KY",
+    "zip": 40170,
+    "lat": 37.9048,
+    "long": -86.524,
+    "city_pop": 344,
+    "transaction_count": 1271
+  },
+  "Sterling City": {
+    "state": "TX",
+    "zip": 76951,
+    "lat": 31.8351,
+    "long": -101.0017,
+    "city_pop": 1143,
+    "transaction_count": 822
+  },
+  "Steuben": {
+    "state": "ME",
+    "zip": 4680,
+    "lat": 44.4971,
+    "long": -67.9503,
+    "city_pop": 1131,
+    "transaction_count": 1665
+  },
+  "Stillwater": {
+    "state": "OK",
+    "zip": 74074,
+    "lat": 36.1043,
+    "long": -97.0609,
+    "city_pop": 55345,
+    "transaction_count": 834
+  },
+  "Stirling": {
+    "state": "NJ",
+    "zip": 7980,
+    "lat": 40.6774,
+    "long": -74.4968,
+    "city_pop": 2307,
+    "transaction_count": 1252
+  },
+  "Stittville": {
+    "state": "NY",
+    "zip": 13469,
+    "lat": 43.2229,
+    "long": -75.2899,
+    "city_pop": 847,
+    "transaction_count": 370
+  },
+  "Stoneham": {
+    "state": "MA",
+    "zip": 2180,
+    "lat": 42.4828,
+    "long": -71.0978,
+    "city_pop": 21437,
+    "transaction_count": 408
+  },
+  "Sturgis": {
+    "state": "MS",
+    "zip": 39769,
+    "lat": 33.357,
+    "long": -89.0473,
+    "city_pop": 1923,
+    "transaction_count": 1283
+  },
+  "Sula": {
+    "state": "MT",
+    "zip": 59871,
+    "lat": 45.8433,
+    "long": -113.8748,
+    "city_pop": 218,
+    "transaction_count": 1195
+  },
+  "Summerfield": {
+    "state": "TX",
+    "zip": 79085,
+    "lat": 34.7437,
+    "long": -102.5064,
+    "city_pop": 53,
+    "transaction_count": 1655
+  },
+  "Sun City": {
+    "state": "CA",
+    "zip": 92585,
+    "lat": 33.7467,
+    "long": -117.1721,
+    "city_pop": 54287,
+    "transaction_count": 2461
+  },
+  "Sunflower": {
+    "state": "MS",
+    "zip": 38778,
+    "lat": 33.5567,
+    "long": -90.5451,
+    "city_pop": 1686,
+    "transaction_count": 409
+  },
+  "Superior": {
+    "state": "AZ",
+    "zip": 85173,
+    "lat": 33.2887,
+    "long": -111.0985,
+    "city_pop": 2872,
+    "transaction_count": 2522
+  },
+  "Surrency": {
+    "state": "GA",
+    "zip": 31563,
+    "lat": 31.6489,
+    "long": -82.1982,
+    "city_pop": 1324,
+    "transaction_count": 1639
+  },
+  "Sutherland": {
+    "state": "NE",
+    "zip": 69165,
+    "lat": 41.1558,
+    "long": -101.136,
+    "city_pop": 1789,
+    "transaction_count": 2469
+  },
+  "Syracuse": {
+    "state": "MO",
+    "zip": 65354,
+    "lat": 38.6547,
+    "long": -92.8929,
+    "city_pop": 628,
+    "transaction_count": 407
+  },
+  "Tallmansville": {
+    "state": "WV",
+    "zip": 26237,
+    "lat": 38.8564,
+    "long": -80.158,
+    "city_pop": 571,
+    "transaction_count": 1644
+  },
+  "Tamaroa": {
+    "state": "IL",
+    "zip": 62888,
+    "lat": 38.138,
+    "long": -89.2231,
+    "city_pop": 2135,
+    "transaction_count": 789
+  },
+  "Tampa": {
+    "state": "FL",
+    "zip": 33620,
+    "lat": 28.06,
+    "long": -82.4079,
+    "city_pop": 717255,
+    "transaction_count": 824
+  },
+  "Tekoa": {
+    "state": "WA",
+    "zip": 99033,
+    "lat": 47.2271,
+    "long": -117.0819,
+    "city_pop": 895,
+    "transaction_count": 1939
+  },
+  "Texarkana": {
+    "state": "AR",
+    "zip": 71854,
+    "lat": 33.431,
+    "long": -93.8765,
+    "city_pop": 36438,
+    "transaction_count": 859
+  },
+  "Thida": {
+    "state": "AR",
+    "zip": 72165,
+    "lat": 35.5762,
+    "long": -91.4539,
+    "city_pop": 111,
+    "transaction_count": 2286
+  },
+  "Thomas": {
+    "state": "OK",
+    "zip": 73669,
+    "lat": 35.7382,
+    "long": -98.7388,
+    "city_pop": 1675,
+    "transaction_count": 3773
+  },
+  "Thompson": {
+    "state": "UT",
+    "zip": 84540,
+    "lat": 38.9999,
+    "long": -109.615,
+    "city_pop": 46,
+    "transaction_count": 2462
+  },
+  "Thornville": {
+    "state": "OH",
+    "zip": 43076,
+    "lat": 39.8974,
+    "long": -82.4071,
+    "city_pop": 9051,
+    "transaction_count": 403
+  },
+  "Thrall": {
+    "state": "TX",
+    "zip": 76578,
+    "lat": 30.592,
+    "long": -97.2893,
+    "city_pop": 1766,
+    "transaction_count": 2467
+  },
+  "Tickfaw": {
+    "state": "LA",
+    "zip": 70466,
+    "lat": 30.5668,
+    "long": -90.482,
+    "city_pop": 8512,
+    "transaction_count": 816
+  },
+  "Timberville": {
+    "state": "VA",
+    "zip": 22853,
+    "lat": 38.6476,
+    "long": -78.7717,
+    "city_pop": 4367,
+    "transaction_count": 1228
+  },
+  "Tiptonville": {
+    "state": "TN",
+    "zip": 38079,
+    "lat": 36.3846,
+    "long": -89.4649,
+    "city_pop": 5577,
+    "transaction_count": 820
+  },
+  "Titusville": {
+    "state": "FL",
+    "zip": 32780,
+    "lat": 28.5697,
+    "long": -80.8191,
+    "city_pop": 54767,
+    "transaction_count": 1240
+  },
+  "Tomahawk": {
+    "state": "WI",
+    "zip": 54487,
+    "lat": 45.4963,
+    "long": -89.7273,
+    "city_pop": 9594,
+    "transaction_count": 1223
+  },
+  "Tomales": {
+    "state": "CA",
+    "zip": 94971,
+    "lat": 38.2427,
+    "long": -122.9145,
+    "city_pop": 337,
+    "transaction_count": 1652
+  },
+  "Topeka": {
+    "state": "KS",
+    "zip": 66618,
+    "lat": 39.1329,
+    "long": -95.7023,
+    "city_pop": 163415,
+    "transaction_count": 2426
+  },
+  "Tower Hill": {
+    "state": "IL",
+    "zip": 62571,
+    "lat": 39.39,
+    "long": -88.9597,
+    "city_pop": 1532,
+    "transaction_count": 1249
+  },
+  "Trenton": {
+    "state": "TX",
+    "zip": 75490,
+    "lat": 33.4235,
+    "long": -96.3398,
+    "city_pop": 2211,
+    "transaction_count": 412
+  },
+  "Tryon": {
+    "state": "OK",
+    "zip": 74875,
+    "lat": 35.8759,
+    "long": -96.9623,
+    "city_pop": 1165,
+    "transaction_count": 825
+  },
+  "Tulsa": {
+    "state": "OK",
+    "zip": 74130,
+    "lat": 36.2395,
+    "long": -95.9596,
+    "city_pop": 413574,
+    "transaction_count": 2451
+  },
+  "Tupper Lake": {
+    "state": "NY",
+    "zip": 12986,
+    "lat": 44.232,
+    "long": -74.4905,
+    "city_pop": 6120,
+    "transaction_count": 2448
+  },
+  "Turner": {
+    "state": "MT",
+    "zip": 59542,
+    "lat": 48.8328,
+    "long": -108.3961,
+    "city_pop": 192,
+    "transaction_count": 1223
+  },
+  "Tuscarora": {
+    "state": "MD",
+    "zip": 21790,
+    "lat": 39.2667,
+    "long": -77.5101,
+    "city_pop": 100,
+    "transaction_count": 441
+  },
+  "Tyaskin": {
+    "state": "MD",
+    "zip": 21865,
+    "lat": 38.2833,
+    "long": -75.8465,
+    "city_pop": 470,
+    "transaction_count": 1659
+  },
+  "Tyler": {
+    "state": "TX",
+    "zip": 75703,
+    "lat": 32.2768,
+    "long": -95.3031,
+    "city_pop": 144160,
+    "transaction_count": 1715
+  },
+  "Uledi": {
+    "state": "PA",
+    "zip": 15484,
+    "lat": 39.8936,
+    "long": -79.7856,
+    "city_pop": 328,
+    "transaction_count": 2507
+  },
+  "Umatilla": {
+    "state": "FL",
+    "zip": 32784,
+    "lat": 28.9254,
+    "long": -81.6801,
+    "city_pop": 11432,
+    "transaction_count": 860
+  },
+  "Union": {
+    "state": "WV",
+    "zip": 24983,
+    "lat": 37.5802,
+    "long": -80.5248,
+    "city_pop": 2443,
+    "transaction_count": 831
+  },
+  "Unionville": {
+    "state": "MO",
+    "zip": 63565,
+    "lat": 40.4815,
+    "long": -92.9951,
+    "city_pop": 3805,
+    "transaction_count": 815
+  },
+  "University": {
+    "state": "MS",
+    "zip": 38677,
+    "lat": 34.3396,
+    "long": -89.5736,
+    "city_pop": 4198,
+    "transaction_count": 1245
+  },
+  "Utica": {
+    "state": "KS",
+    "zip": 67584,
+    "lat": 38.6411,
+    "long": -100.138,
+    "city_pop": 269,
+    "transaction_count": 4115
+  },
+  "Vacaville": {
+    "state": "CA",
+    "zip": 95688,
+    "lat": 38.3847,
+    "long": -121.9887,
+    "city_pop": 99475,
+    "transaction_count": 7
+  },
+  "Valdosta": {
+    "state": "GA",
+    "zip": 31605,
+    "lat": 30.946,
+    "long": -83.2474,
+    "city_pop": 94325,
+    "transaction_count": 1235
+  },
+  "Valentine": {
+    "state": "NE",
+    "zip": 69201,
+    "lat": 42.8062,
+    "long": -100.6215,
+    "city_pop": 4005,
+    "transaction_count": 421
+  },
+  "Vancouver": {
+    "state": "WA",
+    "zip": 98665,
+    "lat": 45.6892,
+    "long": -122.6616,
+    "city_pop": 299480,
+    "transaction_count": 390
+  },
+  "Vanderbilt": {
+    "state": "PA",
+    "zip": 15486,
+    "lat": 40.0246,
+    "long": -79.6955,
+    "city_pop": 2303,
+    "transaction_count": 817
+  },
+  "Varnell": {
+    "state": "GA",
+    "zip": 30756,
+    "lat": 34.9298,
+    "long": -84.9885,
+    "city_pop": 74,
+    "transaction_count": 1209
+  },
+  "Veedersburg": {
+    "state": "IN",
+    "zip": 47987,
+    "lat": 40.1186,
+    "long": -87.2602,
+    "city_pop": 4049,
+    "transaction_count": 811
+  },
+  "Vero Beach": {
+    "state": "FL",
+    "zip": 32960,
+    "lat": 27.633,
+    "long": -80.4031,
+    "city_pop": 105638,
+    "transaction_count": 1270
+  },
+  "Vienna": {
+    "state": "GA",
+    "zip": 31092,
+    "lat": 32.0913,
+    "long": -83.7922,
+    "city_pop": 7420,
+    "transaction_count": 426
+  },
+  "Vinton": {
+    "state": "CA",
+    "zip": 96135,
+    "lat": 40.0235,
+    "long": -120.7986,
+    "city_pop": 128,
+    "transaction_count": 808
+  },
+  "Viola": {
+    "state": "AR",
+    "zip": 72583,
+    "lat": 36.3924,
+    "long": -91.9932,
+    "city_pop": 1679,
+    "transaction_count": 1263
+  },
+  "Wales": {
+    "state": "AK",
+    "zip": 99783,
+    "lat": 64.7556,
+    "long": -165.6723,
+    "city_pop": 145,
+    "transaction_count": 1265
+  },
+  "Walkertown": {
+    "state": "NC",
+    "zip": 27051,
+    "lat": 36.18,
+    "long": -80.1629,
+    "city_pop": 7369,
+    "transaction_count": 11
+  },
+  "Walnut Ridge": {
+    "state": "AR",
+    "zip": 72476,
+    "lat": 36.0244,
+    "long": -90.9288,
+    "city_pop": 7155,
+    "transaction_count": 2496
+  },
+  "Wappapello": {
+    "state": "MO",
+    "zip": 63966,
+    "lat": 36.9766,
+    "long": -90.2848,
+    "city_pop": 2601,
+    "transaction_count": 8
+  },
+  "Warren": {
+    "state": "MI",
+    "zip": 48088,
+    "lat": 42.5164,
+    "long": -82.9832,
+    "city_pop": 134056,
+    "transaction_count": 3715
+  },
+  "Washington": {
+    "state": "DC",
+    "zip": 20012,
+    "lat": 38.9757,
+    "long": -77.0282,
+    "city_pop": 601723,
+    "transaction_count": 2940
+  },
+  "Washington Court House": {
+    "state": "OH",
+    "zip": 43160,
+    "lat": 39.537,
+    "long": -83.455,
+    "city_pop": 22305,
+    "transaction_count": 1237
+  },
+  "Washoe Valley": {
+    "state": "NV",
+    "zip": 89704,
+    "lat": 39.2669,
+    "long": -119.8174,
+    "city_pop": 4290,
+    "transaction_count": 424
+  },
+  "Watertown": {
+    "state": "MN",
+    "zip": 55388,
+    "lat": 44.9595,
+    "long": -93.8482,
+    "city_pop": 5619,
+    "transaction_count": 850
+  },
+  "Wauchula": {
+    "state": "FL",
+    "zip": 33873,
+    "lat": 27.5517,
+    "long": -81.8074,
+    "city_pop": 14742,
+    "transaction_count": 813
+  },
+  "Waukau": {
+    "state": "WI",
+    "zip": 54980,
+    "lat": 43.9886,
+    "long": -88.7712,
+    "city_pop": 149,
+    "transaction_count": 10
+  },
+  "Waukesha": {
+    "state": "WI",
+    "zip": 53186,
+    "lat": 42.9993,
+    "long": -88.2196,
+    "city_pop": 95015,
+    "transaction_count": 823
+  },
+  "Waupaca": {
+    "state": "WI",
+    "zip": 54981,
+    "lat": 44.3481,
+    "long": -89.1101,
+    "city_pop": 15426,
+    "transaction_count": 1221
+  },
+  "Waynesfield": {
+    "state": "OH",
+    "zip": 45896,
+    "lat": 40.6072,
+    "long": -83.9585,
+    "city_pop": 2089,
+    "transaction_count": 433
+  },
+  "Webster City": {
+    "state": "IA",
+    "zip": 50595,
+    "lat": 42.4657,
+    "long": -93.8262,
+    "city_pop": 9165,
+    "transaction_count": 391
+  },
+  "Weeping Water": {
+    "state": "NE",
+    "zip": 68463,
+    "lat": 40.8731,
+    "long": -96.1528,
+    "city_pop": 1517,
+    "transaction_count": 847
+  },
+  "Wendel": {
+    "state": "CA",
+    "zip": 96136,
+    "lat": 40.3406,
+    "long": -120.2824,
+    "city_pop": 104,
+    "transaction_count": 423
+  },
+  "West Bethel": {
+    "state": "ME",
+    "zip": 4286,
+    "lat": 44.402,
+    "long": -70.8601,
+    "city_pop": 47,
+    "transaction_count": 387
+  },
+  "West Chazy": {
+    "state": "NY",
+    "zip": 12992,
+    "lat": 44.797,
+    "long": -73.5112,
+    "city_pop": 4778,
+    "transaction_count": 411
+  },
+  "West Columbia": {
+    "state": "SC",
+    "zip": 29170,
+    "lat": 33.9568,
+    "long": -81.1405,
+    "city_pop": 52126,
+    "transaction_count": 1263
+  },
+  "West Decatur": {
+    "state": "PA",
+    "zip": 16878,
+    "lat": 40.9493,
+    "long": -78.3129,
+    "city_pop": 1762,
+    "transaction_count": 846
+  },
+  "West Eaton": {
+    "state": "NY",
+    "zip": 13484,
+    "lat": 42.8546,
+    "long": -75.6605,
+    "city_pop": 176,
+    "transaction_count": 827
+  },
+  "West Finley": {
+    "state": "PA",
+    "zip": 15377,
+    "lat": 39.9914,
+    "long": -80.4408,
+    "city_pop": 724,
+    "transaction_count": 365
+  },
+  "West Frankfort": {
+    "state": "IL",
+    "zip": 62896,
+    "lat": 37.8979,
+    "long": -88.9307,
+    "city_pop": 12626,
+    "transaction_count": 13
+  },
+  "West Green": {
+    "state": "GA",
+    "zip": 31567,
+    "lat": 31.6143,
+    "long": -82.7243,
+    "city_pop": 782,
+    "transaction_count": 830
+  },
+  "West Harrison": {
+    "state": "NY",
+    "zip": 10604,
+    "lat": 41.0592,
+    "long": -73.7395,
+    "city_pop": 11250,
+    "transaction_count": 1224
+  },
+  "West Hartford": {
+    "state": "VT",
+    "zip": 5084,
+    "lat": 43.7185,
+    "long": -72.4439,
+    "city_pop": 140,
+    "transaction_count": 1631
+  },
+  "West Henrietta": {
+    "state": "NY",
+    "zip": 14586,
+    "lat": 43.0397,
+    "long": -77.6871,
+    "city_pop": 10256,
+    "transaction_count": 1178
+  },
+  "West Long Branch": {
+    "state": "NJ",
+    "zip": 7764,
+    "lat": 40.2878,
+    "long": -74.0162,
+    "city_pop": 8097,
+    "transaction_count": 406
+  },
+  "West Monroe": {
+    "state": "LA",
+    "zip": 71291,
+    "lat": 32.5317,
+    "long": -92.176,
+    "city_pop": 54185,
+    "transaction_count": 809
+  },
+  "West Palm Beach": {
+    "state": "FL",
+    "zip": 33417,
+    "lat": 26.7197,
+    "long": -80.1248,
+    "city_pop": 459921,
+    "transaction_count": 1269
+  },
+  "West Sayville": {
+    "state": "NY",
+    "zip": 11796,
+    "lat": 40.732,
+    "long": -73.1,
+    "city_pop": 4056,
+    "transaction_count": 2113
+  },
+  "Westerville": {
+    "state": "NE",
+    "zip": 68881,
+    "lat": 41.4193,
+    "long": -99.3844,
+    "city_pop": 73,
+    "transaction_count": 1641
+  },
+  "Westfir": {
+    "state": "OR",
+    "zip": 97492,
+    "lat": 43.7575,
+    "long": -122.481,
+    "city_pop": 597,
+    "transaction_count": 430
+  },
+  "Westhampton Beach": {
+    "state": "NY",
+    "zip": 11978,
+    "lat": 40.8295,
+    "long": -72.6473,
+    "city_pop": 3255,
+    "transaction_count": 812
+  },
+  "Westport": {
+    "state": "KY",
+    "zip": 40077,
+    "lat": 38.4921,
+    "long": -85.4524,
+    "city_pop": 564,
+    "transaction_count": 2313
+  },
+  "Wetmore": {
+    "state": "MI",
+    "zip": 49895,
+    "lat": 46.3535,
+    "long": -86.6345,
+    "city_pop": 765,
+    "transaction_count": 2481
+  },
+  "Whaleyville": {
+    "state": "MD",
+    "zip": 21872,
+    "lat": 38.4121,
+    "long": -75.2811,
+    "city_pop": 718,
+    "transaction_count": 2481
+  },
+  "Wheaton": {
+    "state": "MO",
+    "zip": 64874,
+    "lat": 36.7651,
+    "long": -94.0492,
+    "city_pop": 760,
+    "transaction_count": 1668
+  },
+  "Whigham": {
+    "state": "GA",
+    "zip": 39897,
+    "lat": 30.8836,
+    "long": -84.3246,
+    "city_pop": 3430,
+    "transaction_count": 1255
+  },
+  "White Sulphur Springs": {
+    "state": "WV",
+    "zip": 24986,
+    "lat": 37.7827,
+    "long": -80.3129,
+    "city_pop": 5216,
+    "transaction_count": 436
+  },
+  "Whittemore": {
+    "state": "IA",
+    "zip": 50598,
+    "lat": 43.0261,
+    "long": -94.4064,
+    "city_pop": 912,
+    "transaction_count": 406
+  },
+  "Wichita": {
+    "state": "KS",
+    "zip": 67232,
+    "lat": 37.6395,
+    "long": -97.1714,
+    "city_pop": 409656,
+    "transaction_count": 2085
+  },
+  "Williams": {
+    "state": "IN",
+    "zip": 47470,
+    "lat": 38.7735,
+    "long": -86.6285,
+    "city_pop": 1735,
+    "transaction_count": 412
+  },
+  "Williamsburg": {
+    "state": "MO",
+    "zip": 63388,
+    "lat": 38.8874,
+    "long": -91.7689,
+    "city_pop": 710,
+    "transaction_count": 422
+  },
+  "Wilmette": {
+    "state": "IL",
+    "zip": 60091,
+    "lat": 42.0765,
+    "long": -87.7246,
+    "city_pop": 27020,
+    "transaction_count": 1729
+  },
+  "Wilmington": {
+    "state": "NC",
+    "zip": 28405,
+    "lat": 34.2651,
+    "long": -77.867,
+    "city_pop": 186140,
+    "transaction_count": 2534
+  },
+  "Wilton": {
+    "state": "ND",
+    "zip": 58579,
+    "lat": 47.1709,
+    "long": -100.7944,
+    "city_pop": 1190,
+    "transaction_count": 1667
+  },
+  "Winfield": {
+    "state": "WV",
+    "zip": 25213,
+    "lat": 38.5072,
+    "long": -81.89,
+    "city_pop": 5512,
+    "transaction_count": 2047
+  },
+  "Winger": {
+    "state": "MN",
+    "zip": 56592,
+    "lat": 47.5375,
+    "long": -95.9941,
+    "city_pop": 516,
+    "transaction_count": 1685
+  },
+  "Winnsboro": {
+    "state": "SC",
+    "zip": 29180,
+    "lat": 34.381,
+    "long": -81.109,
+    "city_pop": 14267,
+    "transaction_count": 11
+  },
+  "Winslow": {
+    "state": "AR",
+    "zip": 72959,
+    "lat": 35.8312,
+    "long": -94.1187,
+    "city_pop": 2786,
+    "transaction_count": 860
+  },
+  "Winter": {
+    "state": "WI",
+    "zip": 54896,
+    "lat": 45.8327,
+    "long": -91.0144,
+    "city_pop": 1478,
+    "transaction_count": 859
+  },
+  "Winthrop": {
+    "state": "ME",
+    "zip": 4364,
+    "lat": 44.3229,
+    "long": -69.9576,
+    "city_pop": 6025,
+    "transaction_count": 439
+  },
+  "Wittenberg": {
+    "state": "WI",
+    "zip": 54499,
+    "lat": 44.8232,
+    "long": -89.1665,
+    "city_pop": 3223,
+    "transaction_count": 413
+  },
+  "Woods Cross": {
+    "state": "UT",
+    "zip": 84087,
+    "lat": 40.8874,
+    "long": -111.9027,
+    "city_pop": 13983,
+    "transaction_count": 424
+  },
+  "Woodville": {
+    "state": "AL",
+    "zip": 35776,
+    "lat": 34.6689,
+    "long": -86.2296,
+    "city_pop": 3395,
+    "transaction_count": 1729
+  },
+  "Yellowstone National Park": {
+    "state": "WY",
+    "zip": 82190,
+    "lat": 44.7957,
+    "long": -110.6137,
+    "city_pop": 369,
+    "transaction_count": 412
+  },
+  "Zaleski": {
+    "state": "OH",
+    "zip": 45698,
+    "lat": 39.283,
+    "long": -82.3977,
+    "city_pop": 341,
+    "transaction_count": 1239
+  },
+  "Zavalla": {
+    "state": "TX",
+    "zip": 75980,
+    "lat": 31.1569,
+    "long": -94.3871,
+    "city_pop": 2836,
+    "transaction_count": 1267
+  }
+}
