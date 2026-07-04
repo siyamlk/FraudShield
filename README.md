@@ -10,42 +10,38 @@
   <img src="https://img.shields.io/badge/SHAP-8A2BE2" alt="SHAP" />
 </p>
 
-FraudShield is an end-to-end machine learning application for credit card fraud detection. It combines a trained XGBoost classifier, a FastAPI inference service, and a React frontend to deliver real-time predictions together with feature-level explanations powered by SHAP.
+FraudShield is an end-to-end machine learning application for credit card fraud detection. It combines an XGBoost classifier, a FastAPI inference service, and a React frontend to deliver real-time fraud predictions with feature-level explanations powered by SHAP.
 
-The project extends beyond model development by covering the complete inference workflow. A transaction submitted through the frontend is validated, transformed using the persisted preprocessing pipeline, scored by the trained model, and returned with both a fraud probability and an explanation of the features that influenced the prediction.
-
-The repository includes the complete training notebook, the production inference pipeline, and the frontend used to interact with the deployed model, providing a single codebase that spans model development, deployment, and visualization.
+The repository contains the complete machine learning workflow, including model development, evaluation, deployment, and an interactive web interface for real-time inference and visualization.
 
 ---
 
 ## Why I Built This
 
-Credit card fraud detection is a well-established machine learning problem, but many implementations focus primarily on model training and evaluation. While those stages are essential, they represent only one part of the lifecycle of a machine learning system.
 
-The objective of FraudShield was to explore the stages that follow model development. Rather than stopping at a trained classifier, the project extends the workflow into model serving, inference, and explainability. This involved exposing the trained model through a REST API, integrating it with a frontend application, and presenting predictions alongside feature-level explanations instead of a single probability score.
+Credit card fraud detection is a well-established machine learning problem, yet many implementations conclude with model training and offline evaluation. FraudShield was built to extend this workflow into a complete end-to-end application by integrating model serving, real-time inference, and prediction explainability.
 
-Interpretability became a key design objective throughout the project. By incorporating SHAP into the inference pipeline, each prediction is accompanied by the features that contributed most to the model's decision, making the system easier to inspect, debug, and understand.
+A key objective of the project was to make model predictions interpretable rather than returning only a classification result. By integrating SHAP into the inference pipeline, every prediction is accompanied by feature-level explanations that improve transparency and support model analysis.
 
 ---
 
 ## What It Does
 
-FraudShield exposes a trained XGBoost model through a FastAPI inference service and provides an interactive interface for submitting transactions and inspecting predictions. Every request follows the same preprocessing and inference pipeline used during model evaluation, ensuring consistency between training and deployment.
+FraudShield provides an interactive interface for submitting transactions, generating real-time fraud predictions, and inspecting model explanations through a FastAPI-powered inference service.
 
 The application currently supports:
 
-- **Real-time fraud prediction** using a persisted XGBoost model served through FastAPI.
-- **Feature-level explainability** using SHAP, allowing each prediction to be accompanied by the features that contributed most to the final score.
-- **Interactive model evaluation** through ROC and Precision-Recall curve visualizations generated during model assessment.
-- **Model performance reporting** using evaluation metrics computed during testing rather than values embedded in the frontend.
-- **Simulated transaction scoring**, where synthetic transactions are processed through the same inference pipeline as user-submitted requests.
+- **Real-time fraud prediction** using a persisted XGBoost model.
+- **Feature-level explainability** using SHAP.
+- **Interactive model evaluation** through ROC and Precision-Recall curve visualizations.
+- **Model performance reporting** using evaluation metrics generated during testing.
+- **Simulated transaction scoring** using the production inference pipeline.
 - **Responsive dashboard** with support for both light and dark themes.
 
-The application is designed to separate inference from presentation. The frontend is responsible for collecting user input and visualizing results, while the backend owns request validation, preprocessing, model inference, explainability, and response generation.
+The frontend is responsible for user interaction and visualization, while the backend handles request validation, preprocessing, model inference, explainability, and response generation.
 
 ---
 
----
 
 ## Screenshots
 
@@ -79,6 +75,19 @@ The application is designed to separate inference from presentation. The fronten
 
 ---
 
+## Model Development & Selection
+
+| Stage | Implementation |
+| :----- | :------------- |
+| **Exploratory Data Analysis** | Analyzed feature distributions, class imbalance, and feature relationships to guide preprocessing and model selection. |
+| **Preprocessing** | Applied One-Hot Encoding for categorical features, Standard Scaling for numerical features, and integrated preprocessing using `ColumnTransformer`. |
+| **Training Pipeline** | Built reusable `scikit-learn` Pipelines to combine preprocessing and model training into a unified workflow. |
+| **Baseline Model** | Established Logistic Regression as the baseline classifier for comparative evaluation. |
+| **Model Benchmarking** | Compared Logistic Regression, Random Forest, XGBoost, and CatBoost using a consistent preprocessing pipeline. |
+| **Evaluation Metrics** | Assessed model performance using Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix, accounting for class imbalance. |
+| **Final Model Selection** | Selected XGBoost based on its superior validation performance and overall generalization. |
+
+---
 
 ## Technology Choices
 
@@ -95,31 +104,11 @@ Each major component in FraudShield was selected to address a specific stage of 
 | **Pandas & NumPy**         | Handle data manipulation and numerical operations. |
 | **Joblib**                 | Loads the persisted preprocessing pipeline and trained model during inference. |
 
-### XGBoost
-
-The prediction engine is built on XGBoost, a gradient-boosted decision tree algorithm that consistently performs well on structured tabular datasets. Credit card fraud detection involves highly imbalanced classes and nonlinear feature interactions, making boosted trees a strong choice without requiring extensive manual feature engineering.
-
-### FastAPI
-
-FastAPI serves as the inference layer between the trained model and the frontend. In addition to exposing REST endpoints, it provides request validation through Pydantic, ensuring malformed payloads are rejected before entering the preprocessing and inference pipeline.
-
-### SHAP
-
-Prediction probabilities alone provide limited insight into model behaviour. SHAP's `TreeExplainer` computes feature attributions directly from the trained XGBoost estimator, allowing every prediction to be accompanied by an explanation of the features contributing most to the final decision.
-
-### React + Vite
-
-The frontend focuses on presenting model outputs rather than performing inference. React manages application state and user interaction, while Vite provides a lightweight development environment with fast builds and hot module replacement.
-
-### Scikit-learn Pipeline
-
-Model preprocessing and inference are packaged within a persisted Scikit-learn pipeline. Using the same pipeline during both training and inference guarantees that every incoming transaction undergoes identical transformations before reaching the classifier.
-
 ---
 
 ## System Architecture
 
-FraudShield follows a client-server architecture in which the frontend is responsible for user interaction while the backend owns the complete machine learning inference pipeline. This separation keeps the user interface independent of the model implementation and ensures that all prediction requests are processed consistently.
+FraudShield follows a client-server architecture that separates user interaction from machine learning inference. The React frontend manages user input and visualization, while the FastAPI backend handles request validation, preprocessing, model inference, and explainability.
 
 ```text
                           User
@@ -150,43 +139,41 @@ FraudShield follows a client-server architecture in which the frontend is respon
                  React Visualization Layer
 ```
 
-Every prediction request follows the same execution path. The frontend never communicates directly with the model, and all preprocessing, inference, and explainability logic remains encapsulated within the backend. This approach guarantees that the transformations applied during deployment are identical to those used during model training and evaluation.
+The architecture isolates presentation from inference, allowing the frontend to remain independent of the underlying machine learning implementation while ensuring all prediction requests are processed through a centralized backend pipeline.
 
 ---
 
 ## Inference Pipeline
 
-Every prediction follows the same inference pipeline that was established during model development. Using an identical preprocessing workflow for both training and deployment ensures that incoming transactions are transformed consistently before reaching the classifier.
-
-The request lifecycle is outlined below.
+Every prediction request is processed through a structured backend pipeline that validates inputs, performs preprocessing, executes model inference, generates feature-level explanations, and returns the final prediction to the frontend.
 
 ### 1. Request Submission
 
-The frontend collects transaction attributes including amount, category, gender, age, hour, and city, then serializes the payload as JSON before sending it to the `/predict` endpoint.
+The frontend collects transaction attributes, serializes them as JSON, and sends the request to the `/predict` endpoint.
 
 ### 2. Request Validation
 
-FastAPI validates the incoming request using a Pydantic schema. Invalid or incomplete payloads are rejected before entering the preprocessing pipeline, preventing malformed inputs from reaching the model.
+FastAPI validates the incoming request using a Pydantic schema, rejecting malformed or incomplete payloads before they enter the inference pipeline.
 
 ### 3. Feature Construction
 
-Additional attributes required by the trained pipeline are reconstructed from reference datasets. This includes geographic information such as latitude, longitude, ZIP code, city population, and other metadata expected by the persisted model.
+Additional attributes required by the trained model are reconstructed from reference datasets, including geographic information such as latitude, longitude, ZIP code, and city population.
 
 ### 4. Preprocessing
 
-The completed feature vector is passed through the persisted Scikit-learn preprocessing pipeline. Categorical encoding and feature transformations are applied exactly as they were during training, ensuring consistency between development and inference.
+The completed feature vector is processed through the persisted Scikit-learn preprocessing pipeline before being passed to the classifier.
 
 ### 5. Model Inference
 
-The transformed feature vector is evaluated by the trained XGBoost classifier, producing a fraud probability together with the predicted class.
+The trained XGBoost classifier generates both the predicted class and the corresponding fraud probability.
 
 ### 6. Model Explainability
 
-The same transformed feature vector is passed to SHAP's `TreeExplainer`, which computes feature attributions for the prediction. Contributions from one-hot encoded variables are mapped back to their original feature names, producing explanations that remain interpretable to the user.
+The transformed feature vector is passed to SHAP's `TreeExplainer`, which computes feature-level explanations for the prediction. Contributions from one-hot encoded variables are mapped back to their original feature names for improved interpretability.
 
 ### 7. Response Generation
 
-The backend returns a structured JSON response containing the prediction, fraud probability, and the most influential features. The frontend visualizes this information without performing any inference locally.
+The backend returns a structured JSON response containing the predicted class, fraud probability, and the most influential features. The frontend renders these results without performing any inference locally.
 
 ---
 
