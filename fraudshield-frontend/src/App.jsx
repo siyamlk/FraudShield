@@ -84,8 +84,8 @@ function hourMeta(h) {
   return { label, Icon };
 }
 
-function inr(n) {
-  return "₹" + Number(n).toLocaleString("en-IN", { maximumFractionDigits: 2 });
+function usd(n) {
+  return "$" + Number(n).toLocaleString("en-US", { maximumFractionDigits: 2 });
 }
 
 /* ================= SMALL HOOKS ================= */
@@ -213,7 +213,7 @@ function Curve({ id, points, colorVar, label, score, xLabel, yLabel }) {
 
 export default function FraudShieldApp() {
   const [theme, setTheme] = useState("light");
-  const [amount, setAmount] = useState(2500);
+  const [amount, setAmount] = useState(75);
   const [hour, setHour] = useState(10);
   const [age, setAge] = useState(34);
   const [category, setCategory] = useState(CATEGORIES.find((c) => c.id === "shopping_pos"));
@@ -500,7 +500,7 @@ export default function FraudShieldApp() {
                 <div className="az-feed-row" key={row.id}>
                   <span className="az-feed-ts">{row.ts}</span>
                   <span className="az-feed-merch">{row.merch}</span>
-                  <span className="az-feed-amt">{inr(row.amt)}</span>
+                  <span className="az-feed-amt">{usd(row.amt)}</span>
                   <span className={`az-feed-tag ${row.isFraud ? "risk" : "ok"}`}>
                     {row.isFraud ? "Flagged" : "Approved"}
                   </span>
@@ -544,29 +544,29 @@ export default function FraudShieldApp() {
                 <div className="az-field-label" style={{ alignItems: "center" }}>
                   <span>Transaction amount</span>
                   <span className="az-amount-input-wrap">
-                    <span className="az-amount-prefix">₹</span>
+                    <span className="az-amount-prefix">$</span>
                     <input
                       type="text" inputMode="decimal" value={amount}
                       onChange={(e) => {
                         const raw = e.target.value.replace(/[^0-9.]/g, "");
                         if (raw === "") { setAmount(0); return; }
                         const n = Number(raw);
-                        if (!Number.isNaN(n)) setAmount(Math.min(n, 500000));
+                        if (!Number.isNaN(n)) setAmount(Math.min(n, 30000));
                       }}
                       onBlur={(e) => {
                         const n = Number(e.target.value.replace(/[^0-9.]/g, ""));
-                        setAmount(Math.max(1, Math.min(Number.isNaN(n) ? 1 : n, 500000)));
+                        setAmount(Math.max(1, Math.min(Number.isNaN(n) ? 1 : n, 30000)));
                       }}
                       className="az-amount-input"
                     />
                   </span>
                 </div>
                 <input
-                  type="range" min="1" max="100000" step="1" value={Math.min(amount, 100000)}
+                  type="range" min="1" max="30000" step="1" value={Math.min(amount, 30000)}
                   onChange={(e) => setAmount(Number(e.target.value))}
                   className="az-range"
                 />
-                <div className="az-range-ticks"><span>₹1</span><span>₹1,00,000</span></div>
+                <div className="az-range-ticks"><span>$1</span><span>$30,000</span></div>
               </div>
 
               <div className="az-field">
