@@ -1337,6 +1337,9 @@ const CSS = `
   .az-nav-status{display:none;}
   .az-brand{font-size:16px;}
   .az-brand-mark{width:26px; height:26px;}
+  .az-headline {
+  font-size: 22px;
+}
   .az-github-btn{padding:7px 11px; font-size:11.5px;}
   .az-hero{padding:36px 0 24px;}
   .az-headline{font-size:27px;}
