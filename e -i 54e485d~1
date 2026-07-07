@@ -1,0 +1,21 @@
+[33m9dc31e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m tighten README, remove duplicate sections
+[33ma80ffd9[m restructured readme
+[33mb3c2ab6[m added model development and selection to readme
+[33mce055de[m Fix currency mismatch: model expects USD, UI was sending INR-labeled amounts
+[33m541b49e[m fix: resolve mobile layout overflow with min-width reset and responsive headline
+[33ma57606f[m restrict CORS to Vercel origin, add live deployment links to README
+[33m8f98fbb[m fix: use VITE_API_BASE_URL env var instead of hardcoded localhost
+[33md35846e[m changes to the author section
+[33m1d2965f[m Enhancing the screenshots section
+[33m4759dfc[m Enhance README
+[33m1a68084[m Enhance README with application screenshots
+[33m47bfb75[m Enhance README with application screenshots
+[33m864b3a2[m Enhance README with application screenshots
+[33mf7bbfc3[m Enhance README with application screenshots
+[33mad76328[m Document application screenshots
+[33me24305a[m Enhance README with application screenshots
+[33m54e485d[m Add comprehensive project documentation
+[33m7db134c[m Add model training notebook
+[33ma237ebd[m Refactor frontend assets and styling
+[33mdf0982f[m Remove unused frontend assets
+[33maf59057[m Initial commit: FraudShield ML application

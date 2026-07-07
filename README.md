@@ -45,35 +45,21 @@ The frontend is responsible for user interaction and visualization, while the ba
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./screenshots/dashboard.png" width="400"><br>
-      <em>Dashboard</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/transaction_analysis.png" width="400"><br>
-      <em>Transaction Analysis</em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./screenshots/prediction.png" width="400"><br>
-      <em>Prediction Interface</em>
-    </td>
-    <td align="center">
-      <img src="./screenshots/shap.png" width="400"><br>
-      <em>SHAP Explanation</em>
-    </td>
-  </tr>
-</table>
+## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/validation_curves.png" width="820">
+<img src="screenshots/EDA.png" width="95%"/>
 </p>
-<p align="center"><em>ROC curve and Precision-Recall curve, generated during model evaluation</em></p>
 
----
+<p align="center">
+<img src="screenshots/SHAPwaterfall.png" width="48%"/>
+<img src="screenshots/validation_curves.png" width="48%"/>
+</p>
+
+<p align="center">
+<img src="screenshots/f1scorecomparison.png" width="38%"/>
+<img src="screenshots/prediction.png" width="58%"/>
+</p>
 
 ## Model Development & Selection
 
