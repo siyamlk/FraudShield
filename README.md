@@ -45,10 +45,6 @@ The frontend is responsible for user interaction and visualization, while the ba
 
 ## Screenshots
 
-## 📸 Screenshots
-
-## 📸 Screenshots
-
 <table align="center">
 <tr>
 <td align="center" width="100%">
