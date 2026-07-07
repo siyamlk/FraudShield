@@ -47,20 +47,67 @@ The frontend is responsible for user interaction and visualization, while the ba
 
 ## 📸 Screenshots
 
-<p align="center">
+## 📸 Screenshots
+
+<table align="center">
+<tr>
+<td align="center" width="100%">
+
 <img src="screenshots/EDA.png" width="95%"/>
-</p>
 
-<p align="center">
-<img src="screenshots/SHAPwaterfall.png" width="48%"/>
-<img src="screenshots/validation_curves.png" width="48%"/>
-</p>
+**Exploratory Data Analysis**
 
-<p align="center">
-<img src="screenshots/f1scorecomparison.png" width="38%"/>
-<img src="screenshots/prediction.png" width="58%"/>
-</p>
+</td>
+</tr>
+</table>
 
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+<img src="screenshots/SHAPwaterfall.png" width="95%"/>
+
+**SHAP Explainability**
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="screenshots/validation_curves.png" width="95%"/>
+
+**ROC & Precision-Recall Curves**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="50%">
+
+<img src="screenshots/f1scorecomparison.png" width="95%"/>
+
+**Model Comparison**
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="screenshots/prediction.png" width="95%"/>
+
+**Prediction Interface**
+
+</td>
+
+</tr>
+</table>
 ## Model Development & Selection
 
 | Stage | Implementation |
